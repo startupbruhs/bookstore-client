@@ -1,20 +1,12 @@
-import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { options } from "../configs/routes";
 import loadable from "@loadable/component";
-import Loading from "./Loading";
 import Nav from "../components/Nav";
+import React from "react";
 
-const Home = loadable(() => import("./Home"), {
-  fallback: <Loading />
-});
-
-const About = loadable(() => import("./About"), {
-  fallback: <Loading />
-});
-
-const Contact = loadable(() => import("./Contact"), {
-  fallback: <Loading />
-});
+const Home = loadable(() => import("./Home"), options);
+const About = loadable(() => import("./About"), options);
+const Contact = loadable(() => import("./Contact"), options);
 
 export default () => (
   <Router>
