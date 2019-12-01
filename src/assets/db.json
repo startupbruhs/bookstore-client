@@ -1,5 +1,6 @@
 {
-  "books": [
+  "bo,
+  "booked": ["2019-12-01","2019-12-10"]oks": [
     {
       "imagePath": "http://localhost:3001/images/goat.png",
       "title": "Hadoop in Practice",
@@ -9,7 +10,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes.jpg",
       "status": "PUBLISH",
       "authors": ["Alex Holmes"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -20,7 +22,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dimidukkhurana.jpg",
       "status": "PUBLISH",
       "authors": ["Nicholas Dimiduk", "Amandeep Khurana"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -31,7 +34,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/campos.jpg",
       "status": "PUBLISH",
       "authors": ["Jonathan Campos"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -42,7 +46,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jackson.jpg",
       "status": "PUBLISH",
       "authors": ["Jim Jackson", "II", "Ian Gilman"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -53,7 +58,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sessa.jpg",
       "status": "PUBLISH",
       "authors": ["Carlos M. Sessa"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -64,7 +70,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones2.jpg",
       "status": "PUBLISH",
       "authors": ["Don Jones", "Richard Siddaway", "", "Jeffery Hicks"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -73,7 +80,8 @@
       "pageCount": 0,
       "status": "MEAP",
       "authors": ["Robert A. Rice Jr."],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -82,7 +90,8 @@
       "pageCount": 0,
       "status": "MEAP",
       "authors": ["Julio C. Ody"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -98,7 +107,8 @@
         "Luke Ruth",
         "with Michael Hausenblas"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -109,7 +119,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dossot2.jpg",
       "status": "PUBLISH",
       "authors": ["David Dossot", "John D'Emic", "", "Victor Romero"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -120,7 +131,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mikowski.jpg",
       "status": "PUBLISH",
       "authors": ["Michael S. Mikowski", "Josh C. Powell"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -131,7 +143,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/osherove2.jpg",
       "status": "PUBLISH",
       "authors": ["Roy Osherove"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -142,7 +155,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/leroux.jpg",
       "status": "PUBLISH",
       "authors": ["Nicolas Leroux", "Sietse de Kaper"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -153,7 +167,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sande2.jpg",
       "status": "PUBLISH",
       "authors": ["Warren Sande", "Carter Sande"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -165,7 +180,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett.jpg",
       "status": "PUBLISH",
       "authors": ["Chris Buckett"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -177,7 +193,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carlson.jpg",
       "status": "PUBLISH",
       "authors": ["Josiah Carlson"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -189,7 +206,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell2.jpg",
       "status": "PUBLISH",
       "authors": ["Christopher R. Mitchell"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -200,7 +218,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/partner.jpg",
       "status": "MEAP",
       "authors": ["Jonas Partner", "Aleksa Vukotic", "", "Nicki Watt"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -212,7 +231,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mitchell.jpg",
       "status": "PUBLISH",
       "authors": ["Christopher R. Mitchell"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -223,7 +243,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bjarnason.jpg",
       "status": "MEAP",
       "authors": ["Paul Chiusano", "Rúnar Bjarnason"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -235,7 +256,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hilton.jpg",
       "status": "PUBLISH",
       "authors": ["Peter Hilton", "Erik Bakker", "", "Francisco Canedo"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -246,7 +268,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/templier2.jpg",
       "status": "MEAP",
       "authors": ["Alex Young", "Marc Harter"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -258,7 +281,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/papapetrou.jpg",
       "status": "PUBLISH",
       "authors": ["G. Ann Campbell", "Patroklos P. Papapetrou"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -270,7 +294,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pbrown3.jpg",
       "status": "PUBLISH",
       "authors": ["Peter M. Brown"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -282,7 +307,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/helmick.jpg",
       "status": "PUBLISH",
       "authors": ["Jason C. Helmick"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -293,7 +319,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/back.jpg",
       "status": "PUBLISH",
       "authors": ["William Back", "Nicholas Goodman", "", "Julian Hyde"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -304,7 +331,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/roy.jpg",
       "status": "MEAP",
       "authors": ["Gavin M. Roy"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -320,7 +348,8 @@
         "Rob Williams",
         "Steven Haines"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -332,7 +361,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/wood.jpg",
       "status": "PUBLISH",
       "authors": ["Keith B. Wood"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -344,7 +374,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta.jpg",
       "status": "PUBLISH",
       "authors": ["Mala Gupta"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -356,7 +387,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hammarberg.jpg",
       "status": "PUBLISH",
       "authors": ["Marcus Hammarberg", "Joakim Sunden"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -368,7 +400,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/grainger.jpg",
       "status": "PUBLISH",
       "authors": ["Trey Grainger", "Timothy Potter"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -380,7 +413,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mccreary.jpg",
       "status": "PUBLISH",
       "authors": ["Daniel G. McCreary", "Ann M. Kelly"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -391,7 +425,8 @@
       "publishedDate": { "$date": "1999-08-09T00:00:00.000-0700" },
       "status": "PUBLISH",
       "authors": ["MIchael Barlotta"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -402,7 +437,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gsmith2.jpg",
       "status": "MEAP",
       "authors": ["Glen Smith", "Peter Ledbrook"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -413,7 +449,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bigg2.jpg",
       "status": "MEAP",
       "authors": ["Ryan Bigg", "Yehuda Katz", "and Steve Klabnik", ""],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -425,7 +462,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones3.jpg",
       "status": "PUBLISH",
       "authors": ["Don Jones", "Jeffery D. Hicks"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -437,7 +475,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/groves.jpg",
       "status": "PUBLISH",
       "authors": ["Matthew D. Groves"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -449,7 +488,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones4.jpg",
       "status": "PUBLISH",
       "authors": ["Don Jones", "Jeffery Hicks"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -460,7 +500,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mueller.jpg",
       "status": "PUBLISH",
       "authors": ["Florian Müller", "Jay Brown", "Jeff Potts"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -470,7 +511,8 @@
       "pageCount": 0,
       "status": "PUBLISH",
       "authors": ["Paul Messick"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -481,7 +523,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway3.jpg",
       "status": "PUBLISH",
       "authors": ["Richard Siddaway"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -492,7 +535,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls5.jpg",
       "status": "MEAP",
       "authors": ["Craig Walls"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -504,7 +548,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ellnestam.jpg",
       "status": "PUBLISH",
       "authors": ["Ola Ellnestam", "Daniel Brolund"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -515,7 +560,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/carver.jpg",
       "status": "MEAP",
       "authors": ["Matthew Carver"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -527,7 +573,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hume.jpg",
       "status": "PUBLISH",
       "authors": ["Dean Alan Hume"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -538,7 +585,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/suereth2.jpg",
       "status": "MEAP",
       "authors": ["Joshua Suereth", "Matthew Farwell"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -555,7 +603,8 @@
         "",
         "Aleksandar Nikolic"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -567,7 +616,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/muschko.jpg",
       "status": "PUBLISH",
       "authors": ["Benjamin Muschko"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -585,7 +635,8 @@
         "",
         "Jared Armstrong"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -596,7 +647,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bford.jpg",
       "status": "MEAP",
       "authors": ["Brian Ford", "Lukas Ruebbelke"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -607,7 +659,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nicolette.jpg",
       "status": "MEAP",
       "authors": ["David Nicolette"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -618,7 +671,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/petricek_trelford.jpg",
       "status": "MEAP",
       "authors": ["Tomas Petricek", "Phillip Trelford"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -630,7 +684,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeet3.jpg",
       "status": "PUBLISH",
       "authors": ["Jon Skeet"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -641,7 +696,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/obe2.jpg",
       "status": "MEAP",
       "authors": ["Regina Obe", "Leo Hsu"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -652,7 +708,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kabacoff2.jpg",
       "status": "MEAP",
       "authors": ["Robert Kabacoff"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -664,7 +721,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fogus2.jpg",
       "status": "PUBLISH",
       "authors": ["Michael Fogus", "Chris Houser"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -676,7 +734,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim2.jpg",
       "status": "PUBLISH",
       "authors": ["Brendan G. Lim", "Martin Conte Mac Donell"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -687,7 +746,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/beer.jpg",
       "status": "MEAP",
       "authors": ["Paula Beer", "Carl Simmons"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -699,7 +759,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/skeie.jpg",
       "status": "PUBLISH",
       "authors": ["Joachim Haagen Skeie"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -710,7 +771,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/maurer.jpg",
       "status": "MEAP",
       "authors": ["Norman Maurer", "Courtney Robinson"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "~Desktop/images/goat.png",
@@ -721,7 +783,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/syn-hershko.jpg",
       "status": "MEAP",
       "authors": ["Itamar Syn-Hershko"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -732,7 +795,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/gupta2.jpg",
       "status": "MEAP",
       "authors": ["Mala Gupta"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -748,7 +812,8 @@
         "",
         "Phillip Whisenhunt"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -759,7 +824,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rathore2.jpg",
       "status": "MEAP",
       "authors": ["Amit Rathore"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -771,7 +837,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/zumel.jpg",
       "status": "PUBLISH",
       "authors": ["Nina Zumel", "John Mount"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -782,7 +849,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rubalcava.jpg",
       "status": "MEAP",
       "authors": ["Rene Rubalcava"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -793,7 +861,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hinman.jpg",
       "status": "MEAP",
       "authors": ["Radu Gheorghe", "Matthew Lee Hinman"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -804,7 +873,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bannan.jpg",
       "status": "MEAP",
       "authors": ["James Bannan"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -815,7 +885,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kapur.jpg",
       "status": "MEAP",
       "authors": ["Ajay Kapur", "Perry Cook", "Spencer Salazar", "", "Ge Wang"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -826,7 +897,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/smart.jpg",
       "status": "MEAP",
       "authors": ["John F. Smart"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -843,7 +915,8 @@
         "Michael Sync",
         "Adam Benoit"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -854,7 +927,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alcocer.jpg",
       "status": "MEAP",
       "authors": ["Ricardo Alcocer"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -870,7 +944,8 @@
         "",
         "Dionysios Logothetis"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -882,7 +957,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/black3.jpg",
       "status": "PUBLISH",
       "authors": ["David A. Black"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -893,7 +969,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ketelsen.jpg",
       "status": "MEAP",
       "authors": ["Brian Ketelsen", "Erik St. Martin", "", "William Kennedy"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -904,7 +981,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/abernethy.jpg",
       "status": "MEAP",
       "authors": ["Randy Abernethy"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -915,7 +993,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/khan.jpg",
       "status": "MEAP",
       "authors": ["Aslam Khan"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -926,7 +1005,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hossain.jpg",
       "status": "MEAP",
       "authors": ["Monsur Hossain"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -937,7 +1017,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kuhn.jpg",
       "status": "MEAP",
       "authors": ["Roland Kuhn", "Jamie Allen"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -948,7 +1029,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pathirana.jpg",
       "status": "MEAP",
       "authors": ["Sean Allen", "Peter Pathirana", "", "Matthew Jankowski"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -959,7 +1041,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/brink.jpg",
       "status": "MEAP",
       "authors": ["Henrik Brink", "Joseph Richards"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -970,7 +1053,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/vantoll.jpg",
       "status": "MEAP",
       "authors": ["Theodore J. (T.J.) VanToll III"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -981,7 +1065,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/buckett2.jpg",
       "status": "MEAP",
       "authors": ["Chris Buckett"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -992,7 +1077,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bevacqua.jpg",
       "status": "MEAP",
       "authors": ["Nicolas G. Bevacqua"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1003,7 +1089,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/mcquaid.jpg",
       "status": "MEAP",
       "authors": ["Mike McQuaid"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1014,7 +1101,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/saltzer.jpg",
       "status": "MEAP",
       "authors": ["Richard L. Saltzer", "Istvan Szegedi"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1025,7 +1113,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/urma.jpg",
       "status": "MEAP",
       "authors": ["Raoul-Gabriel Urma", "Mario Fusco", "", "Alan Mycroft"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1036,7 +1125,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/juric.jpg",
       "status": "MEAP",
       "authors": ["Saša Juric´"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1054,7 +1144,8 @@
         "",
         "Douglas Garrett"
       ],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1065,7 +1156,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/sholmes.jpg",
       "status": "MEAP",
       "authors": ["Simon Holmes"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1076,7 +1168,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/derosa.jpg",
       "status": "MEAP",
       "authors": ["Bear Bibeault", "Yehuda Katz", "", "Aurelio De Rosa"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1087,7 +1180,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/meeks.jpg",
       "status": "MEAP",
       "authors": ["Elijah Meeks"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1099,7 +1193,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones5.jpg",
       "status": "PUBLISH",
       "authors": ["Don Jones"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1110,7 +1205,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garrard.jpg",
       "status": "MEAP",
       "authors": ["Chris Garrard"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1121,7 +1217,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drobnik.jpg",
       "status": "MEAP",
       "authors": ["Oliver Drobnik"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1132,7 +1229,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/aivaliotis.jpg",
       "status": "MEAP",
       "authors": ["Dimitri Aivaliotis"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1143,7 +1241,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/holmes2.jpg",
       "status": "MEAP",
       "authors": ["Alex Holmes"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1154,7 +1253,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bdavis.jpg",
       "status": "MEAP",
       "authors": ["Bradley Austin Davis", "Karen Bryla", "", "Alex Benton"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1165,7 +1265,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bumgardner.jpg",
       "status": "MEAP",
       "authors": ["Cody Bumgardner"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1176,7 +1277,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/jones6.jpg",
       "status": "MEAP",
       "authors": ["Don Jones", "Jeffery Hicks", "", "Richard Siddaway"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1187,7 +1289,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/pfeffer.jpg",
       "status": "MEAP",
       "authors": ["Avi Pfeffer"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1198,7 +1301,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hocking.jpg",
       "status": "MEAP",
       "authors": ["Joseph Hocking"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1209,7 +1313,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hahn.jpg",
       "status": "MEAP",
       "authors": ["Evan M. Hahn"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1220,7 +1325,8 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/umali.jpg",
       "status": "MEAP",
       "authors": ["Rick Umali"],
-      "categories": []
+      "categories": [],
+      "booked": ["2019-12-01","2019-12-10"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",

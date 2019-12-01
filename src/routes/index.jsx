@@ -12,6 +12,7 @@ const Home = loadable(() => import("./Home"), options);
 const About = loadable(() => import("./About"), options);
 const Contact = loadable(() => import("./Contact"), options);
 const Books = loadable(() => import("./Books"), options);
+const Booking = loadable(() => import("./Booking"), options);
 
 export default withStorage(({ ls }) => {
   const [theme, setTheme] = useState(ls.getItem("theme"));
@@ -59,6 +60,7 @@ export default withStorage(({ ls }) => {
                 <Route exact path="/about" component={About} />
                 <Route exact path="/contact" component={Contact} />
                 <Route exact path="/books" component={Books} />
+                <Route exact path="/booking" component={Booking} />
               </Switch>
             </Content>
           </Layout>

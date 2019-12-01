@@ -14,5 +14,9 @@ export default [
   {
     path: "/books",
     name: "Books"
+  },
+  {
+    path: "/booking",
+    name: "Booking"
   }
 ];

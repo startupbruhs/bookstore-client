@@ -2,11 +2,9 @@ import React, { useState, useEffect } from "react";
 import Book from "../components/Book";
 import { Row } from "antd";
 import axios from "axios";
-import { URL } from "../configs/Site";
+import { URL } from "../configs/site";
 
 const Books = () => {
-  let books = null;
-
   const [apiBooks, setBooks] = useState([]);
 
   useEffect(() => {
@@ -14,13 +12,15 @@ const Books = () => {
       const apiBooks = await axios.get(URL);
       setBooks(apiBooks.data);
     };
+
     getBooks();
   }, []);
 
+  let books = null;
   if (apiBooks.length)
     books = apiBooks.map(book => <Book key={book.id} book={book} />);
 
-  return books ? <Row gutter={24}>{books}</Row> : null;
+  return <Row gutter={24}>{books}</Row>;
 };
 
 export default Books;
