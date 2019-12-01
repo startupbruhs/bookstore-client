@@ -10,5 +10,9 @@ export default [
   {
     path: "/about",
     name: "About"
+  },
+  {
+    path: "/books",
+    name: "Books"
   }
 ];
