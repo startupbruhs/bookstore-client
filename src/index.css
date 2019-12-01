@@ -19,10 +19,14 @@
   float: left;
 }
 
-#root > .ant-layout {
+#root>.ant-layout {
   height: 100%;
 }
 
 .ant-layout-header {
   padding: 0;
+}
+
+.ant-layout-content {
+  min-height: initial !important;
 }

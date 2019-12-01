@@ -9,6 +9,7 @@ const { Content } = Layout;
 const Home = loadable(() => import("./Home"), options);
 const About = loadable(() => import("./About"), options);
 const Contact = loadable(() => import("./Contact"), options);
+const Books = loadable(() => import("./Books"), options);
 
 export default () => {
   const [theme, setTheme] = useState("dark");
@@ -38,6 +39,10 @@ export default () => {
               {
                 path: "/about",
                 name: "About"
+              },
+              {
+                path: "/books",
+                name: "Books"
               }
             ]}
           />
@@ -54,6 +59,7 @@ export default () => {
                 <Route exact path="/" component={Home} />
                 <Route exact path="/about" component={About} />
                 <Route exact path="/contact" component={Contact} />
+                <Route exact path="/books" component={Books} />
               </Switch>
             </Content>
           </Layout>
