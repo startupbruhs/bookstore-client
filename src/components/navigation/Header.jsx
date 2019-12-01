@@ -7,7 +7,7 @@ const { Header: AntHeader } = Layout;
 
 export const Header = ({ theme, changeTheme, links }) => (
   <AntHeader className={"header " + theme}>
-    <div className="logo" src={logo} />
+    <img className="logo" src={logo} alt="logo" />
 
     <Menu
       theme={theme}
