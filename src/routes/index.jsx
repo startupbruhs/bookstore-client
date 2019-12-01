@@ -4,6 +4,7 @@ import { options } from "../configs/routes";
 import loadable from "@loadable/component";
 import { Layout } from "antd";
 import React, { useState } from "react";
+import routes from "./navigation";
 
 const { Content } = Layout;
 const Home = loadable(() => import("./Home"), options);
@@ -22,31 +23,10 @@ export default () => {
   return (
     <Router>
       <Layout>
-        <Header theme={theme} changeTheme={changeTheme} />
+        <Header links={routes} theme={theme} changeTheme={changeTheme} />
         <Layout>
-          <Nav
-            theme={theme}
-            changeTheme={changeTheme}
-            links={[
-              {
-                path: "/",
-                name: "Home"
-              },
-              {
-                path: "/contact",
-                name: "Contact"
-              },
-              {
-                path: "/about",
-                name: "About"
-              },
-              {
-                path: "/books",
-                name: "Books"
-              }
-            ]}
-          />
-          <Layout style={{ padding: "0 24px 24px" }}>
+          <Nav theme={theme} changeTheme={changeTheme} links={routes} />
+          <Layout style={{ padding: "24px 24px" }}>
             <Content
               style={{
                 background: "#fff",

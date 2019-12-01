@@ -11,7 +11,7 @@
   height: 100vh;
 }
 
-.header.ant-layout-header .logo {
+.ant-layout-header .logo {
   width: 120px;
   height: 31px;
   background: rgba(255, 255, 255, 0.2);
@@ -19,7 +19,15 @@
   float: left;
 }
 
-#root>.ant-layout {
+.light {
+  background: #fff;
+}
+
+.header {
+  color: "red";
+}
+
+#root > .ant-layout {
   height: 100%;
 }
 

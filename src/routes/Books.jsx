@@ -1,7 +1,7 @@
 import React from "react";
 import Book from "../components/Book";
-import goat from "../data/goat.png";
-import { Card, Col, Row } from "antd";
+import { goat } from "../assets/images";
+import { Row } from "antd";
 
 const Books = () => {
   const fakeBooks = [

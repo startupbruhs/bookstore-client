@@ -1,29 +1,20 @@
 import React, { useState } from "react";
 import { Menu, Layout } from "antd";
-import { Link } from "react-router-dom";
+import { menu } from "./utils";
+
 const { Sider } = Layout;
 
-export const Nav = props => {
+export const Nav = ({ theme, links }) => {
   const [current, setCurrent] = useState("1");
 
   const handleClick = e => {
-    console.log("click ", e);
-
     setCurrent(e.key);
   };
-
-  const menus = props.links.map((link, index) => {
-    return (
-      <Menu.Item key={index}>
-        <Link to={link.path}> {link.name}</Link>
-      </Menu.Item>
-    );
-  });
 
   return (
     <Sider width={200} style={{ background: "#fff" }}>
       <Menu
-        theme={props.theme}
+        theme={theme}
         defaultSelectedKeys={["1"]}
         onClick={handleClick}
         style={{ height: "100%", borderRight: 0 }}
@@ -31,7 +22,7 @@ export const Nav = props => {
         selectedKeys={[current]}
         mode="inline"
       >
-        {menus}
+        {menu(links)}
       </Menu>
     </Sider>
   );
