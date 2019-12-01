@@ -5,6 +5,7 @@ import loadable from "@loadable/component";
 import { Layout } from "antd";
 import React, { useState } from "react";
 import routes from "./navigation";
+import { withStorage } from "../utils/storage/withStorage";
 
 const { Content } = Layout;
 const Home = loadable(() => import("./Home"), options);
@@ -12,12 +13,13 @@ const About = loadable(() => import("./About"), options);
 const Contact = loadable(() => import("./Contact"), options);
 const Books = loadable(() => import("./Books"), options);
 
-export default () => {
-  const [theme, setTheme] = useState("dark");
+export default withStorage(({ ls }) => {
+  const [theme, setTheme] = useState(ls.getItem("theme"));
 
   const changeTheme = value => {
     const theme = value ? "dark" : "light";
     setTheme(theme);
+    ls.setItem("theme", theme);
   };
 
   return (
@@ -47,4 +49,4 @@ export default () => {
       </Layout>
     </Router>
   );
-};
+});
