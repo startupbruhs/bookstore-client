@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import loadable from "@loadable/component";
 import Loading from "./Loading";
+import Nav from "../components/Nav";
 
 const Home = loadable(() => import("./Home"), {
   fallback: <Loading />
@@ -17,22 +18,23 @@ const Contact = loadable(() => import("./Contact"), {
 
 export default () => (
   <Router>
+    <Nav
+      links={[
+        {
+          path: "/",
+          name: "Home"
+        },
+        {
+          path: "/contact",
+          name: "Contact"
+        },
+        {
+          path: "/about",
+          name: "About"
+        }
+      ]}
+    />
     <div>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-          <li>
-            <Link to="/contact">Contact</Link>
-          </li>
-        </ul>
-      </nav>
-      <hr />
-
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
