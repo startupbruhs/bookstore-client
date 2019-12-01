@@ -19,6 +19,10 @@
   float: left;
 }
 
+.ant-layout-header .logo img {
+  vertical-align: baseline;
+}
+
 .light {
   background: #fff;
 }
