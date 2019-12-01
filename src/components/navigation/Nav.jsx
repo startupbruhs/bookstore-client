@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import { Menu, Layout } from "antd";
 import { menu } from "./utils";
 import { activeRoute } from "../../utils/navigation";
 import { useLocation } from "react-router-dom";
+
 const { Sider } = Layout;
 
 export const Nav = ({ theme, links }) => {

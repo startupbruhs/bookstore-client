@@ -8,7 +8,6 @@ const Books = () => {
   let books = null;
 
   const [apiBooks, setBooks] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const getBooks = async () => {
