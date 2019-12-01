@@ -3,20 +3,17 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import loadable from "@loadable/component";
 import Loading from "./Loading";
 
-const Home = () =>
-  loadable(() => import("./Home"), {
-    fallback: <Loading />
-  });
+const Home = loadable(() => import("./Home"), {
+  fallback: <Loading />
+});
 
-const About = () =>
-  loadable(() => import("./About"), {
-    fallback: <Loading />
-  });
+const About = loadable(() => import("./About"), {
+  fallback: <Loading />
+});
 
-const Contact = () =>
-  loadable(() => import("./Contact"), {
-    fallback: <Loading />
-  });
+const Contact = loadable(() => import("./Contact"), {
+  fallback: <Loading />
+});
 
 export default () => (
   <Router>
@@ -34,11 +31,12 @@ export default () => (
           </li>
         </ul>
       </nav>
+      <hr />
 
       <Switch>
-        <Route path="/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/contact" component={Contact} />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/contact" component={Contact} />
       </Switch>
     </div>
   </Router>
