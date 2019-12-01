@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Menu, Icon, Switch } from "antd";
+import { Menu, Switch } from "antd";
 import { Link } from "react-router-dom";
 
 const Nav = props => {
@@ -13,9 +13,8 @@ const Nav = props => {
 
   const handleClick = e => {
     console.log("click ", e);
-    setCurrent({
-      current: e.key
-    });
+
+    setCurrent(e.key);
   };
 
   const menus = props.links.map((link, index) => {
