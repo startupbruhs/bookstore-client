@@ -1,15 +1,10 @@
 import React, { useState } from "react";
-import { Menu, Switch } from "antd";
+import { Menu, Layout } from "antd";
 import { Link } from "react-router-dom";
+const { Sider } = Layout;
 
-const Nav = props => {
-  const [theme, setTheme] = useState("dark");
+export const Nav = props => {
   const [current, setCurrent] = useState("1");
-
-  const changeTheme = value => {
-    const theme = value ? "dark" : "light";
-    setTheme(theme);
-  };
 
   const handleClick = e => {
     console.log("click ", e);
@@ -26,27 +21,18 @@ const Nav = props => {
   });
 
   return (
-    <div>
-      <Switch
-        checked={theme === "dark"}
-        onChange={changeTheme}
-        checkedChildren="Dark"
-        unCheckedChildren="Light"
-      />
-      <br />
-      <br />
+    <Sider width={200} style={{ background: "#fff" }}>
       <Menu
-        theme={theme}
+        theme={props.theme}
+        defaultSelectedKeys={["1"]}
         onClick={handleClick}
-        style={{ width: 256 }}
+        style={{ height: "100%", borderRight: 0 }}
         defaultOpenKeys={["sub1"]}
         selectedKeys={[current]}
         mode="inline"
       >
         {menus}
       </Menu>
-    </div>
+    </Sider>
   );
 };
-
-export default Nav;
