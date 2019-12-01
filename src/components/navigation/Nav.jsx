@@ -6,14 +6,18 @@ import { useLocation } from "react-router-dom";
 
 const { Sider } = Layout;
 
-export const Nav = ({ theme, links }) => {
-  const defaultKey = activeRoute(links, useLocation().pathname);
+export const Nav = ({ theme, links, onClick, selectedKey }) => {
+  const current = activeRoute(links, useLocation().pathname);
 
   return (
     <Sider width={200} style={{ background: "#fff" }}>
       <Menu
         theme={theme}
-        defaultSelectedKeys={[defaultKey]}
+        defaultSelectedKeys={[current]}
+        onClick={e => {
+          onClick(e.key);
+        }}
+        selectedKeys={[selectedKey || current]}
         style={{ height: "100%", borderRight: 0 }}
         mode="inline"
       >

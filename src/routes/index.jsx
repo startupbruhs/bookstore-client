@@ -15,6 +15,7 @@ const Books = loadable(() => import("./Books"), options);
 
 export default withStorage(({ ls }) => {
   const [theme, setTheme] = useState(ls.getItem("theme"));
+  const [selectedKey, setKey] = useState(undefined);
 
   const changeTheme = value => {
     const theme = value ? "dark" : "light";
@@ -22,12 +23,28 @@ export default withStorage(({ ls }) => {
     ls.setItem("theme", theme);
   };
 
+  const onClick = key => {
+    setKey(key);
+  };
+
   return (
     <Router>
       <Layout>
-        <Header links={routes} theme={theme} changeTheme={changeTheme} />
+        <Header
+          selectedKey={selectedKey}
+          onClick={onClick}
+          links={routes}
+          theme={theme}
+          changeTheme={changeTheme}
+        />
         <Layout>
-          <Nav theme={theme} changeTheme={changeTheme} links={routes} />
+          <Nav
+            selectedKey={selectedKey}
+            onClick={onClick}
+            theme={theme}
+            changeTheme={changeTheme}
+            links={routes}
+          />
           <Layout style={{ padding: "24px 24px" }}>
             <Content
               style={{
