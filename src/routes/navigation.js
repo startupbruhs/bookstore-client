@@ -22,5 +22,9 @@ export default [
     key: "menu-4",
     path: "/books",
     name: "Books"
+  },
+  {
+    path: "/booking",
+    name: "Booking"
   }
 ];
