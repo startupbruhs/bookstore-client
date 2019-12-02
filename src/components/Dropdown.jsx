@@ -3,7 +3,7 @@ import { Select } from "antd";
 
 const { Option } = Select;
 
-const Dropdown = ({ books, setDisabledDates }) => {
+const Dropdown = ({ books, setDisabledDates, setBookIsSelected }) => {
   const bookTitles = books.map(book => (
     <Option key={book.id} value={book.title}>
       {book.title}
@@ -15,6 +15,7 @@ const Dropdown = ({ books, setDisabledDates }) => {
     console.log(bookDisabledDates);
     console.log(key.key);
     setDisabledDates(bookDisabledDates);
+    setBookIsSelected(true);
   };
 
   const filter = (input, option) => {

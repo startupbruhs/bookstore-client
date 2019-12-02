@@ -10,7 +10,7 @@
       "status": "PUBLISH",
       "authors": ["Alex Holmes"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "booked": ["2019-12-01", "2019-12-10", "2019-12-12", "2019-12-13"]
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
