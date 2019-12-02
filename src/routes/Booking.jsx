@@ -3,6 +3,7 @@ import axios from "axios";
 import { Row, Col, Button, Card } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
+import Book from "../components/Book";
 import { URL } from "../configs/site";
 const { Meta } = Card;
 
@@ -32,18 +33,7 @@ const Booking = () => {
 
   const bookButton = isDateSelected && <Button> Book</Button>;
 
-  const book = selectedBook && (
-    <Card
-      hoverable
-      style={{ width: 240, marginTop: 20, marginLeft: 10 }}
-      cover={<img alt="example" src={selectedBook.thumbnailUrl} />}
-    >
-      <Meta
-        title={selectedBook.title}
-        description={selectedBook.authorsString}
-      />
-    </Card>
-  );
+  const book = selectedBook && <Book selectedBook />;
   return (
     <div>
       <Row gutter={24}>
