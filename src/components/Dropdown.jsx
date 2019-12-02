@@ -1,22 +1,24 @@
-import React, { useState } from "react";
+import React from "react";
 import { Select } from "antd";
 
+const { Option } = Select;
+
 const Dropdown = ({ books }) => {
-  console.log(books);
-
-  const [options, setOptions] = useState(books);
-
   const bookTitles = books.map(book => (
-    <option key={book.id}>{book.title}</option>
+    <Option key={book.id} value={book.title}>
+      {book.title}
+    </Option>
   ));
 
-  const filter = bookTitle => {
-    // Insert search logic here
+  const filter = (input, option) => {
+    return (
+      option.props.children.toLowerCase().indexOf(input.toLowerCase()) >= 0
+    );
   };
 
   return (
     <div>
-      <Select showSearch="true" onSearch={filter} style={{ width: "300px" }}>
+      <Select showSearch filterOption={filter} style={{ width: "300px" }}>
         {bookTitles}
       </Select>
     </div>
