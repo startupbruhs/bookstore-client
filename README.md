@@ -2,10 +2,13 @@
 
 ## Running the json web server as a backend
 
-Prior to running the json-server you should install it.  
-Type `npm i json-server` on the terminal to install it.
+Prior to running the json-server you should install it.
 
-After installing it, you should go under bookstore-client/s/assets and type `json-server --watch db.json --port 3001`
+`npm i json-server` on the terminal to install it.
+
+After installing it, go under bookstore-client/s/assets, and type
+
+`json-server --watch db.json --port 3001`
 
 ## Available Scripts
 
