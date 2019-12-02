@@ -3,12 +3,19 @@ import { Select } from "antd";
 
 const { Option } = Select;
 
-const Dropdown = ({ books }) => {
+const Dropdown = ({ books, setDisabledDates }) => {
   const bookTitles = books.map(book => (
     <Option key={book.id} value={book.title}>
       {book.title}
     </Option>
   ));
+
+  const onchange = (value, key) => {
+    var bookDisabledDates = books.find(b => b.id === key.key).booked;
+    console.log(bookDisabledDates);
+    console.log(key.key);
+    setDisabledDates(bookDisabledDates);
+  };
 
   const filter = (input, option) => {
     return (
@@ -18,7 +25,12 @@ const Dropdown = ({ books }) => {
 
   return (
     <div>
-      <Select showSearch filterOption={filter} style={{ width: "300px" }}>
+      <Select
+        showSearch
+        filterOption={filter}
+        onChange={onchange}
+        style={{ width: "300px" }}
+      >
         {bookTitles}
       </Select>
     </div>
