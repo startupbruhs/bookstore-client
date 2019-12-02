@@ -29,6 +29,8 @@ located under
 bookstore-client/s/assets/db.json
 ```
 
+You can change the content there based on your needs.
+
 **Please refer to https://github.com/typicode/json-server to find out how to add more routes.**
 
 ## Available Scripts
