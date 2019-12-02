@@ -11,10 +11,9 @@ const RangePicker = ({ disabledDates, setIsDateSelected }) => {
   };
 
   const disableDates = current => {
-    let index = disabledDates.findIndex(
+    return disabledDates.find(
       date => date === moment(current).format("YYYY-MM-DD")
     );
-    return index === 1;
   };
 
   return <Picker onChange={onChange} disabledDate={disableDates} />;
