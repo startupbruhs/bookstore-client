@@ -27,6 +27,7 @@ const Dropdown = ({ books, setDisabledDates, setBookIsSelected }) => {
   return (
     <div>
       <Select
+        placeholder="Select a book"
         showSearch
         filterOption={filter}
         onChange={onchange}
