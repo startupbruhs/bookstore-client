@@ -4,11 +4,32 @@
 
 Prior to running the json-server you should install it.
 
-`npm i json-server` on the terminal to install it.
+1. Install JSON Server
 
-After installing it, go under bookstore-client/s/assets, and type
+```
+npm install -g json-server
+```
 
-`json-server --watch db.json --port 3001`
+2. Go under
+
+```
+bookstore-client/s/assets`
+```
+
+3. Run
+
+```
+json-server --watch db.json --port 3001
+```
+
+The source file that stores the data that the json-server will return is
+located under
+
+```
+bookstore-client/s/assets/db.json`
+```
+
+**Please refer to https://github.com/typicode/json-server to find out how to add more routes. **
 
 ## Available Scripts
 
