@@ -1,5 +1,12 @@
 # Bookstore Client
 
+## Running the json web server as a backend
+
+Prior to running the json-server you should install it.
+hit `npm i json-server` to install it.
+
+After installing it, you should go under bookstore-client/s/assets and run `json-server --watch db.json --port 3001`
+
 ## Available Scripts
 
 ### `npm start`
