@@ -3,7 +3,12 @@ import { Select } from "antd";
 
 const { Option } = Select;
 
-const Dropdown = ({ books, setDisabledDates, setBookIsSelected }) => {
+const Dropdown = ({
+  books,
+  setDisabledDates,
+  setBookIsSelected,
+  setSelectedBook
+}) => {
   const bookTitles = books.map(book => (
     <Option key={book.id} value={book.title}>
       {book.title}
@@ -11,11 +16,13 @@ const Dropdown = ({ books, setDisabledDates, setBookIsSelected }) => {
   ));
 
   const onchange = (value, key) => {
-    var bookDisabledDates = books.find(b => b.id === key.key).booked;
+    let book = books.find(b => b.id === key.key);
+    let bookDisabledDates = book.booked;
     console.log(bookDisabledDates);
     console.log(key.key);
     setDisabledDates(bookDisabledDates);
     setBookIsSelected(true);
+    setSelectedBook(book);
   };
 
   const filter = (input, option) => {

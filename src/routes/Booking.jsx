@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Row, Col, Button } from "antd";
+import { Row, Col, Button, Card } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
 import { URL } from "../configs/site";
+const { Meta } = Card;
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
@@ -20,6 +21,7 @@ const Booking = () => {
 
   const [bookIsSelected, setBookIsSelected] = useState(false);
   const [isDateSelected, setIsDateSelected] = useState(false);
+  const [selectedBook, setSelectedBook] = useState();
 
   const rangePicker = bookIsSelected && (
     <RangePicker
@@ -29,18 +31,36 @@ const Booking = () => {
   );
 
   const bookButton = isDateSelected && <Button> Book</Button>;
+
+  const book = selectedBook && (
+    <Card
+      hoverable
+      style={{ width: 240, marginTop: 20, marginLeft: 10 }}
+      cover={<img alt="example" src={selectedBook.thumbnailUrl} />}
+    >
+      <Meta
+        title={selectedBook.title}
+        description={selectedBook.authorsString}
+      />
+    </Card>
+  );
   return (
-    <Row gutter={24}>
-      <Col span={12}>
-        <Dropdown
-          books={apiBooks}
-          setDisabledDates={setDisabledDates}
-          setBookIsSelected={setBookIsSelected}
-        />
-      </Col>
-      <Col span={8}>{rangePicker}</Col>
-      <Col>{bookButton}</Col>
-    </Row>
+    <div>
+      <Row gutter={24}>
+        <Col span={12}>
+          <Dropdown
+            books={apiBooks}
+            setDisabledDates={setDisabledDates}
+            setBookIsSelected={setBookIsSelected}
+            setSelectedBook={setSelectedBook}
+          />
+        </Col>
+        <Col span={8}>{rangePicker}</Col>
+        <Col>{bookButton}</Col>
+      </Row>
+
+      <Row gutter={24}>{book}</Row>
+    </div>
   );
 };
 
