@@ -13,7 +13,7 @@ npm install -g json-server
 2. Go under
 
 ```
-bookstore-client/s/assets`
+bookstore-client/s/assets
 ```
 
 3. Run
@@ -26,10 +26,10 @@ The source file that stores the data that the json-server will return is
 located under
 
 ```
-bookstore-client/s/assets/db.json`
+bookstore-client/s/assets/db.json
 ```
 
-**Please refer to https://github.com/typicode/json-server to find out how to add more routes. **
+**Please refer to https://github.com/typicode/json-server to find out how to add more routes.**
 
 ## Available Scripts
 
