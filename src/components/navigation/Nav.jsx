@@ -10,7 +10,13 @@ export const Nav = ({ theme, links, onClick, selectedKey }) => {
   const current = activeRoute(links, useLocation().pathname);
 
   return (
-    <Sider width={200} style={{ background: "#fff" }}>
+    <Sider
+      breakpoint={{ sm: 2 }}
+      collapsible
+      collapsedWidth={0}
+      width={200}
+      style={{ background: "#fff" }}
+    >
       <Menu
         theme={theme}
         defaultSelectedKeys={[current]}

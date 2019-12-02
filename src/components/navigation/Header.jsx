@@ -25,7 +25,7 @@ export const Header = ({ theme, changeTheme, selectedKey, onClick, links }) => {
         selectedKeys={[selectedKey || current]}
         style={{ lineHeight: "64px", float: "right" }}
       >
-        {menu(links)}
+        {menu(links, "header")}
         <Menu.Item key="4">
           <Switch
             checked={theme === "dark"}
