@@ -18,7 +18,9 @@ const Books = () => {
 
   let books = null;
   if (apiBooks.length)
-    books = apiBooks.map(book => <Book key={book.id} book={book} />);
+    books = apiBooks.map(
+      book => book.thumbnailUrl && <Book key={book.id} book={book} />
+    );
 
   return <Row gutter={24}>{books}</Row>;
 };
