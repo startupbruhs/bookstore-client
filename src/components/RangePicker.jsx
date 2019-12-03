@@ -1,6 +1,8 @@
 import React from "react";
-import { DatePicker, message } from "antd";
+import { DatePicker } from "antd";
 import moment from "moment";
+import message from "./utils/message";
+
 const { RangePicker: Picker } = DatePicker;
 
 const RangePicker = ({ disabledDates, setIsDateSelected }) => {
