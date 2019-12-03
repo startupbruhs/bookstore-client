@@ -32,10 +32,12 @@ const Booking = () => {
     <RangePicker
       disabledDates={disabledDates}
       setIsDateSelected={setIsDateSelected}
-    ></RangePicker>
+    />
   );
 
-  const bookButton = isDateSelected && <Button> Book</Button>;
+  const bookButton = isDateSelected && (
+    <Button onClick={() => {}}> Book</Button>
+  );
 
   const book = selectedBook && <Book book={selectedBook} />;
   return (
@@ -50,12 +52,12 @@ const Booking = () => {
           />
         </StyledCol>
         <StyledCol span={8}>{rangePicker}</StyledCol>
-        <StyledCol>{bookButton}</StyledCol>
+        <StyledCol span={2}>{bookButton}</StyledCol>
       </Row>
 
-      <StyledCol>
-        <Row gutter={24}>{book}</Row>
-      </StyledCol>
+      <Row gutter={24}>
+        <StyledCol>{book}</StyledCol>
+      </Row>
     </div>
   );
 };
