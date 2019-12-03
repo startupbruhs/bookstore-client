@@ -5,6 +5,7 @@ import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
 import Book from "../components/Book";
 import { URL } from "../configs/site";
+import styled from "styled-components";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
@@ -32,23 +33,29 @@ const Booking = () => {
 
   const bookButton = isDateSelected && <Button> Book</Button>;
 
+  const StyledCol = styled(Col)`
+    margin-top: 30px;
+  `;
+
   const book = selectedBook && <Book book={selectedBook} />;
   return (
     <div>
       <Row gutter={24}>
-        <Col span={12}>
+        <StyledCol span={12}>
           <Dropdown
             books={apiBooks}
             setDisabledDates={setDisabledDates}
             setBookIsSelected={setBookIsSelected}
             setSelectedBook={setSelectedBook}
           />
-        </Col>
-        <Col span={8}>{rangePicker}</Col>
-        <Col>{bookButton}</Col>
+        </StyledCol>
+        <StyledCol span={8}>{rangePicker}</StyledCol>
+        <StyledCol>{bookButton}</StyledCol>
       </Row>
 
-      <Row gutter={24}>{book}</Row>
+      <StyledCol>
+        <Row gutter={24}>{book}</Row>
+      </StyledCol>
     </div>
   );
 };

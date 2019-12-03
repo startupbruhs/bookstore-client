@@ -8,7 +8,7 @@ const RangePicker = ({ disabledDates, setIsDateSelected }) => {
     console.log(dateString);
 
     if (datesIntercept(disabledDates, dateString)) {
-      alert("dates intercept, you can't book");
+      // message.info("You can't book in this dates, already booked");
     } else setIsDateSelected(true);
   };
 

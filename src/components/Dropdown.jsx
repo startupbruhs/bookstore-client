@@ -18,8 +18,6 @@ const Dropdown = ({
   const onchange = (value, key) => {
     let book = books.find(b => b.id === key.key);
     let bookDisabledDates = book.booked;
-    console.log(bookDisabledDates);
-    console.log(key.key);
     setDisabledDates(bookDisabledDates);
     setBookIsSelected(true);
     setSelectedBook(book);
