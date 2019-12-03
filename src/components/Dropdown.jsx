@@ -21,6 +21,11 @@ const Dropdown = ({
     setDisabledDates(bookDisabledDates);
     setBookIsSelected(true);
     setSelectedBook(book);
+    //TODO
+    /*
+    Evety time a book is selected, the DatePicker should be empty if he had values previously
+    submit button should be disabled too.
+    */
   };
 
   const filter = (input, option) => {
