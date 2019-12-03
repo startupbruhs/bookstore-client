@@ -4,19 +4,19 @@ export default [
     name: "Home"
   },
   {
-    path: "/contact",
-    name: "Contact"
-  },
-  {
-    path: "/about",
-    name: "About"
-  },
-  {
     path: "/books",
     name: "Books"
   },
   {
     path: "/booking",
     name: "Booking"
+  },
+  {
+    path: "/contact",
+    name: "Contact"
+  },
+  {
+    path: "/about",
+    name: "About"
   }
 ];
