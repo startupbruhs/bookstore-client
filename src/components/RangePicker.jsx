@@ -1,5 +1,5 @@
 import React from "react";
-import { DatePicker } from "antd";
+import { DatePicker, message } from "antd";
 import moment from "moment";
 const { RangePicker: Picker } = DatePicker;
 
@@ -8,7 +8,7 @@ const RangePicker = ({ disabledDates, setIsDateSelected }) => {
     console.log(dateString);
 
     if (datesIntercept(disabledDates, dateString)) {
-      // message.info("You can't book in this dates, already booked");
+      message.info("You can't book in this dates, already booked");
     } else setIsDateSelected(true);
   };
 

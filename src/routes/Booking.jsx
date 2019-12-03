@@ -7,6 +7,10 @@ import Book from "../components/Book";
 import { URL } from "../configs/site";
 import styled from "styled-components";
 
+const StyledCol = styled(Col)`
+  margin-top: 30px;
+`;
+
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
   const [disabledDates, setDisabledDates] = useState([]);
@@ -32,10 +36,6 @@ const Booking = () => {
   );
 
   const bookButton = isDateSelected && <Button> Book</Button>;
-
-  const StyledCol = styled(Col)`
-    margin-top: 30px;
-  `;
 
   const book = selectedBook && <Book book={selectedBook} />;
   return (
