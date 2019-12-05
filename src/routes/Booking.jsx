@@ -11,7 +11,6 @@ const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
   const [disabledDates, setDisabledDates] = useState([]);
 
-  const [bookIsSelected, setBookIsSelected] = useState(false);
   const [isDateSelected, setIsDateSelected] = useState(false);
   const [selectedBook, setSelectedBook] = useState(null);
   const [selectedDate, setSelectedDate] = useState([null, null]);
@@ -26,16 +25,23 @@ const Booking = () => {
   }, []);
 
   useEffect(() => {
-    if (selectedBook !== null) setBookIsSelected(true);
     setIsDateSelected(false);
     setSelectedDate([null, null]);
   }, [selectedBook]);
 
-  const rangePicker = bookIsSelected && (
+  const rangePicker = selectedBook && (
     <RangePicker
       disabledDates={disabledDates}
       setIsDateSelected={setIsDateSelected}
       selectedDate={selectedDate}
+    />
+  );
+
+  const dropdown = (
+    <Dropdown
+      books={apiBooks}
+      setDisabledDates={setDisabledDates}
+      setSelectedBook={setSelectedBook}
     />
   );
 
@@ -48,14 +54,7 @@ const Booking = () => {
   return (
     <div>
       <Row gutter={24}>
-        <StyledCol span={12}>
-          <Dropdown
-            books={apiBooks}
-            setDisabledDates={setDisabledDates}
-            setBookIsSelected={setBookIsSelected}
-            setSelectedBook={setSelectedBook}
-          />
-        </StyledCol>
+        <StyledCol span={12}>{dropdown}</StyledCol>
         <StyledCol span={8}>{rangePicker}</StyledCol>
         <StyledCol span={2}>{bookButton}</StyledCol>
       </Row>
