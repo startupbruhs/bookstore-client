@@ -11,6 +11,11 @@ const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
   const [disabledDates, setDisabledDates] = useState([]);
 
+  const [bookIsSelected, setBookIsSelected] = useState(false);
+  const [isDateSelected, setIsDateSelected] = useState(false);
+  const [selectedBook, setSelectedBook] = useState(null);
+  const [selectedDate, setSelectedDate] = useState([null, null]);
+
   useEffect(() => {
     const getBooks = async () => {
       const apiBooks = await axios.get(URL);
@@ -20,14 +25,17 @@ const Booking = () => {
     getBooks();
   }, []);
 
-  const [bookIsSelected, setBookIsSelected] = useState(false);
-  const [isDateSelected, setIsDateSelected] = useState(false);
-  const [selectedBook, setSelectedBook] = useState();
+  useEffect(() => {
+    if (selectedBook !== null) setBookIsSelected(true);
+    setIsDateSelected(false);
+    setSelectedDate([null, null]);
+  }, [selectedBook]);
 
   const rangePicker = bookIsSelected && (
     <RangePicker
       disabledDates={disabledDates}
       setIsDateSelected={setIsDateSelected}
+      selectedDate={selectedDate}
     />
   );
 
