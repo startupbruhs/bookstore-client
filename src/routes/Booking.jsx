@@ -6,6 +6,9 @@ import RangePicker from "../components/RangePicker";
 import Book from "../components/Book";
 import { URL } from "../configs/site";
 import StyledCol from "../components/StyledCol";
+import moment from "moment";
+import datesIntercept from "../utils/datesIntercept";
+import message from "../components/utils/message";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
@@ -29,11 +32,24 @@ const Booking = () => {
     setSelectedDate([null, null]);
   }, [selectedBook]);
 
+  const onDateChange = (date, dateRange) => {
+    if (datesIntercept(disabledDates, dateRange)) {
+      message.info("You can't book in this dates, already booked");
+      setIsDateSelected(false);
+      setSelectedDate([null, null]);
+    } else {
+      let mapping = dateRange.map(date => moment(date));
+      setSelectedDate(mapping);
+      setIsDateSelected(true);
+    }
+  };
+
   const rangePicker = selectedBook && (
     <RangePicker
       disabledDates={disabledDates}
       setIsDateSelected={setIsDateSelected}
-      selectedDate={selectedDate}
+      value={selectedDate}
+      onChange={onDateChange}
     />
   );
 
