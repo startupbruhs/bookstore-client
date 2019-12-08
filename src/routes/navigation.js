@@ -24,6 +24,8 @@ export default [
     name: "Books"
   },
   {
+    icon: "folder-open",
+    key: "menu-5",
     path: "/booking",
     name: "Booking"
   }

@@ -1,23 +1,18 @@
 import React from "react";
 import { DatePicker } from "antd";
+
 import moment from "moment";
+
 const { RangePicker: Picker } = DatePicker;
 
-const RangePicker = ({ disabledDates, setIsDateSelected }) => {
-  const onChange = (date, dateString) => {
-    setIsDateSelected(true);
-    console.log(date);
-    console.log(dateString);
-  };
-
+const RangePicker = ({ disabledDates, ...rest }) => {
   const disableDates = current => {
-    let index = disabledDates.findIndex(
+    return disabledDates.find(
       date => date === moment(current).format("YYYY-MM-DD")
     );
-    return index === 1;
   };
 
-  return <Picker onChange={onChange} disabledDate={disableDates} />;
+  return <Picker disabledDate={disableDates} {...rest} />;
 };
 
 export default RangePicker;

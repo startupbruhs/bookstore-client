@@ -1,46 +1,96 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
-import { Row, Col, Button } from "antd";
+import { Row, Button } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
-import { URL } from "../configs/site";
+import Book from "../components/Book";
+import StyledCol from "../components/StyledCol";
+import moment from "moment";
+import datesIntercept from "../utils/datesIntercept";
+import message from "../components/utils/message";
+import { getAllBooks } from "../services/BookService";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
   const [disabledDates, setDisabledDates] = useState([]);
 
+  const [isDateSelected, setIsDateSelected] = useState(false);
+  const [selectedBook, setSelectedBook] = useState(null);
+  const [selectedDate, setSelectedDate] = useState([null, null]);
+
   useEffect(() => {
     const getBooks = async () => {
-      const apiBooks = await axios.get(URL);
-      setBooks(apiBooks.data);
+      const getDataAndUpdate = async () => {
+        const apiBooks = await getAllBooks();
+        setBooks(apiBooks.data);
+      };
+      getDataAndUpdate();
     };
 
     getBooks();
   }, []);
 
-  const [bookIsSelected, setBookIsSelected] = useState(false);
-  const [isDateSelected, setIsDateSelected] = useState(false);
+  useEffect(() => {
+    setIsDateSelected(false);
+    setSelectedDate([null, null]);
+  }, [selectedBook]);
 
-  const rangePicker = bookIsSelected && (
+  const onDateChange = (date, dateRange) => {
+    if (datesIntercept(disabledDates, dateRange)) {
+      message.info("You can't book in this dates, already booked");
+      setIsDateSelected(false);
+      setSelectedDate([null, null]);
+    } else {
+      let mapping = dateRange.map(date => moment(date));
+      setSelectedDate(mapping);
+      setIsDateSelected(true);
+    }
+  };
+
+  const rangePicker = selectedBook && (
     <RangePicker
       disabledDates={disabledDates}
       setIsDateSelected={setIsDateSelected}
-    ></RangePicker>
+      value={selectedDate}
+      onChange={onDateChange}
+    />
   );
 
-  const bookButton = isDateSelected && <Button> Book</Button>;
+  const dropdown = (
+    <Dropdown
+      books={apiBooks}
+      setDisabledDates={setDisabledDates}
+      setSelectedBook={setSelectedBook}
+    />
+  );
+
+  const bookButton = isDateSelected && (
+    <Button onClick={() => {}}> Book</Button>
+  );
+
+  const book = selectedBook && <Book book={selectedBook} />;
+
+  const bookDescription = selectedBook && (
+    <div> {selectedBook.description}</div>
+  );
+
+  const bookingCost = selectedBook && (
+    <h4> Booking bookingCost: {selectedBook.bookingCost}$</h4>
+  );
+
   return (
-    <Row gutter={24}>
-      <Col span={12}>
-        <Dropdown
-          books={apiBooks}
-          setDisabledDates={setDisabledDates}
-          setBookIsSelected={setBookIsSelected}
-        />
-      </Col>
-      <Col span={8}>{rangePicker}</Col>
-      <Col>{bookButton}</Col>
-    </Row>
+    <div>
+      <Row gutter={24}>
+        <StyledCol span={12}>{dropdown}</StyledCol>
+        <StyledCol span={8}>{rangePicker}</StyledCol>
+        <StyledCol span={2}>{bookButton}</StyledCol>
+      </Row>
+
+      <Row gutter={24}>
+        <StyledCol>{book}</StyledCol>
+        <StyledCol> {bookDescription} </StyledCol>
+        {bookingCost}
+      </Row>
+    </div>
   );
 };
 
