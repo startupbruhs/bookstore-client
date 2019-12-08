@@ -1,14 +1,13 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
 import { Row, Button } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
 import Book from "../components/Book";
-import { URL } from "../configs/site";
 import StyledCol from "../components/StyledCol";
 import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
 import message from "../components/utils/message";
+import { getAllBooks } from "../services/BookService";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
@@ -20,8 +19,11 @@ const Booking = () => {
 
   useEffect(() => {
     const getBooks = async () => {
-      const apiBooks = await axios.get(URL);
-      setBooks(apiBooks.data);
+      const getDataAndUpdate = async () => {
+        const apiBooks = await getAllBooks();
+        setBooks(apiBooks.data);
+      };
+      getDataAndUpdate();
     };
 
     getBooks();

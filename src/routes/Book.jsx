@@ -1,15 +1,10 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
 import { useParams } from "react-router-dom";
-import { URL } from "../configs/site";
 import Book from "../components/Book";
 import StyledCol from "../components/StyledCol";
+import { getBookById } from "../services/BookService";
 import { Row, Typography } from "antd";
 const { Text } = Typography;
-
-const getBookData = async id => {
-  return await axios.get(`${URL}?id=${id}`);
-};
 
 const BookPage = () => {
   const { id } = useParams();
@@ -17,7 +12,7 @@ const BookPage = () => {
 
   useEffect(() => {
     const getDataAndUpdate = async () => {
-      const content = await getBookData(id);
+      const content = await getBookById(id);
       setBook(content.data[0]);
     };
     console.log(`content is:  `);

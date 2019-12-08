@@ -1,19 +1,17 @@
 import React, { useState, useEffect } from "react";
 import Book from "../components/Book";
 import { Row } from "antd";
-import axios from "axios";
-import { URL } from "../configs/site";
+import { getAllBooks } from "../services/BookService";
 
 const Books = () => {
   const [apiBooks, setBooks] = useState([]);
 
   useEffect(() => {
-    const getBooks = async () => {
-      const apiBooks = await axios.get(URL);
-      setBooks(apiBooks.data);
+    const getBook = async () => {
+      const book = await getAllBooks();
+      setBooks(book.data);
     };
-
-    getBooks();
+    getBook();
   }, []);
 
   let books = null;
