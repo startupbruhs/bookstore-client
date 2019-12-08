@@ -10,7 +10,10 @@
       "status": "PUBLISH",
       "authors": ["Alex Holmes"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10", "2019-12-12", "2019-12-13"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -22,7 +25,10 @@
       "status": "PUBLISH",
       "authors": ["Nicholas Dimiduk", "Amandeep Khurana"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -34,7 +40,10 @@
       "status": "PUBLISH",
       "authors": ["Jonathan Campos"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -46,7 +55,10 @@
       "status": "PUBLISH",
       "authors": ["Jim Jackson", "II", "Ian Gilman"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -58,7 +70,10 @@
       "status": "PUBLISH",
       "authors": ["Carlos M. Sessa"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -70,7 +85,10 @@
       "status": "PUBLISH",
       "authors": ["Don Jones", "Richard Siddaway", "", "Jeffery Hicks"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -80,7 +98,10 @@
       "status": "MEAP",
       "authors": ["Robert A. Rice Jr."],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -90,7 +111,10 @@
       "status": "MEAP",
       "authors": ["Julio C. Ody"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -107,7 +131,10 @@
         "with Michael Hausenblas"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -119,7 +146,10 @@
       "status": "PUBLISH",
       "authors": ["David Dossot", "John D'Emic", "", "Victor Romero"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -131,7 +161,10 @@
       "status": "PUBLISH",
       "authors": ["Michael S. Mikowski", "Josh C. Powell"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -143,7 +176,10 @@
       "status": "PUBLISH",
       "authors": ["Roy Osherove"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -155,7 +191,10 @@
       "status": "PUBLISH",
       "authors": ["Nicolas Leroux", "Sietse de Kaper"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -167,7 +206,10 @@
       "status": "PUBLISH",
       "authors": ["Warren Sande", "Carter Sande"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -180,7 +222,10 @@
       "status": "PUBLISH",
       "authors": ["Chris Buckett"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -193,7 +238,10 @@
       "status": "PUBLISH",
       "authors": ["Josiah Carlson"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -206,7 +254,10 @@
       "status": "PUBLISH",
       "authors": ["Christopher R. Mitchell"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -218,7 +269,10 @@
       "status": "MEAP",
       "authors": ["Jonas Partner", "Aleksa Vukotic", "", "Nicki Watt"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -231,7 +285,10 @@
       "status": "PUBLISH",
       "authors": ["Christopher R. Mitchell"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -243,7 +300,10 @@
       "status": "MEAP",
       "authors": ["Paul Chiusano", "Rúnar Bjarnason"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -256,7 +316,10 @@
       "status": "PUBLISH",
       "authors": ["Peter Hilton", "Erik Bakker", "", "Francisco Canedo"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -268,7 +331,10 @@
       "status": "MEAP",
       "authors": ["Alex Young", "Marc Harter"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -281,7 +347,10 @@
       "status": "PUBLISH",
       "authors": ["G. Ann Campbell", "Patroklos P. Papapetrou"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -294,7 +363,10 @@
       "status": "PUBLISH",
       "authors": ["Peter M. Brown"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -307,7 +379,10 @@
       "status": "PUBLISH",
       "authors": ["Jason C. Helmick"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -319,7 +394,10 @@
       "status": "PUBLISH",
       "authors": ["William Back", "Nicholas Goodman", "", "Julian Hyde"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -331,7 +409,10 @@
       "status": "MEAP",
       "authors": ["Gavin M. Roy"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -348,7 +429,10 @@
         "Steven Haines"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -361,7 +445,10 @@
       "status": "PUBLISH",
       "authors": ["Keith B. Wood"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -374,7 +461,10 @@
       "status": "PUBLISH",
       "authors": ["Mala Gupta"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -387,7 +477,10 @@
       "status": "PUBLISH",
       "authors": ["Marcus Hammarberg", "Joakim Sunden"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -400,7 +493,10 @@
       "status": "PUBLISH",
       "authors": ["Trey Grainger", "Timothy Potter"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -413,7 +509,10 @@
       "status": "PUBLISH",
       "authors": ["Daniel G. McCreary", "Ann M. Kelly"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -425,7 +524,10 @@
       "status": "PUBLISH",
       "authors": ["MIchael Barlotta"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -437,7 +539,10 @@
       "status": "MEAP",
       "authors": ["Glen Smith", "Peter Ledbrook"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -449,7 +554,10 @@
       "status": "MEAP",
       "authors": ["Ryan Bigg", "Yehuda Katz", "and Steve Klabnik", ""],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -462,7 +570,10 @@
       "status": "PUBLISH",
       "authors": ["Don Jones", "Jeffery D. Hicks"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -475,7 +586,10 @@
       "status": "PUBLISH",
       "authors": ["Matthew D. Groves"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -488,7 +602,10 @@
       "status": "PUBLISH",
       "authors": ["Don Jones", "Jeffery Hicks"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -500,7 +617,10 @@
       "status": "PUBLISH",
       "authors": ["Florian Müller", "Jay Brown", "Jeff Potts"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -511,7 +631,10 @@
       "status": "PUBLISH",
       "authors": ["Paul Messick"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -523,7 +646,10 @@
       "status": "PUBLISH",
       "authors": ["Richard Siddaway"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -535,7 +661,10 @@
       "status": "MEAP",
       "authors": ["Craig Walls"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -548,7 +677,10 @@
       "status": "PUBLISH",
       "authors": ["Ola Ellnestam", "Daniel Brolund"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -560,7 +692,10 @@
       "status": "MEAP",
       "authors": ["Matthew Carver"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -573,7 +708,10 @@
       "status": "PUBLISH",
       "authors": ["Dean Alan Hume"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -585,7 +723,10 @@
       "status": "MEAP",
       "authors": ["Joshua Suereth", "Matthew Farwell"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -603,7 +744,10 @@
         "Aleksandar Nikolic"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -616,7 +760,10 @@
       "status": "PUBLISH",
       "authors": ["Benjamin Muschko"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -635,7 +782,10 @@
         "Jared Armstrong"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -647,7 +797,10 @@
       "status": "MEAP",
       "authors": ["Brian Ford", "Lukas Ruebbelke"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -659,7 +812,10 @@
       "status": "MEAP",
       "authors": ["David Nicolette"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -671,7 +827,10 @@
       "status": "MEAP",
       "authors": ["Tomas Petricek", "Phillip Trelford"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -684,7 +843,10 @@
       "status": "PUBLISH",
       "authors": ["Jon Skeet"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -696,7 +858,10 @@
       "status": "MEAP",
       "authors": ["Regina Obe", "Leo Hsu"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -708,7 +873,10 @@
       "status": "MEAP",
       "authors": ["Robert Kabacoff"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -721,7 +889,10 @@
       "status": "PUBLISH",
       "authors": ["Michael Fogus", "Chris Houser"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -734,7 +905,10 @@
       "status": "PUBLISH",
       "authors": ["Brendan G. Lim", "Martin Conte Mac Donell"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -746,7 +920,10 @@
       "status": "MEAP",
       "authors": ["Paula Beer", "Carl Simmons"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -759,7 +936,10 @@
       "status": "PUBLISH",
       "authors": ["Joachim Haagen Skeie"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -771,7 +951,10 @@
       "status": "MEAP",
       "authors": ["Norman Maurer", "Courtney Robinson"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "~Desktop/images/goat.png",
@@ -783,7 +966,10 @@
       "status": "MEAP",
       "authors": ["Itamar Syn-Hershko"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -795,7 +981,10 @@
       "status": "MEAP",
       "authors": ["Mala Gupta"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -812,7 +1001,10 @@
         "Phillip Whisenhunt"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -824,7 +1016,10 @@
       "status": "MEAP",
       "authors": ["Amit Rathore"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -837,7 +1032,10 @@
       "status": "PUBLISH",
       "authors": ["Nina Zumel", "John Mount"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -849,7 +1047,10 @@
       "status": "MEAP",
       "authors": ["Rene Rubalcava"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -861,7 +1062,10 @@
       "status": "MEAP",
       "authors": ["Radu Gheorghe", "Matthew Lee Hinman"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -873,7 +1077,10 @@
       "status": "MEAP",
       "authors": ["James Bannan"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -885,7 +1092,10 @@
       "status": "MEAP",
       "authors": ["Ajay Kapur", "Perry Cook", "Spencer Salazar", "", "Ge Wang"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -897,7 +1107,10 @@
       "status": "MEAP",
       "authors": ["John F. Smart"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -915,7 +1128,10 @@
         "Adam Benoit"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -927,7 +1143,10 @@
       "status": "MEAP",
       "authors": ["Ricardo Alcocer"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -944,7 +1163,10 @@
         "Dionysios Logothetis"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -957,7 +1179,10 @@
       "status": "PUBLISH",
       "authors": ["David A. Black"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -969,7 +1194,10 @@
       "status": "MEAP",
       "authors": ["Brian Ketelsen", "Erik St. Martin", "", "William Kennedy"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -981,7 +1209,10 @@
       "status": "MEAP",
       "authors": ["Randy Abernethy"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -993,7 +1224,10 @@
       "status": "MEAP",
       "authors": ["Aslam Khan"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1005,7 +1239,10 @@
       "status": "MEAP",
       "authors": ["Monsur Hossain"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1017,7 +1254,10 @@
       "status": "MEAP",
       "authors": ["Roland Kuhn", "Jamie Allen"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1029,7 +1269,10 @@
       "status": "MEAP",
       "authors": ["Sean Allen", "Peter Pathirana", "", "Matthew Jankowski"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1041,7 +1284,10 @@
       "status": "MEAP",
       "authors": ["Henrik Brink", "Joseph Richards"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1053,7 +1299,10 @@
       "status": "MEAP",
       "authors": ["Theodore J. (T.J.) VanToll III"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1065,7 +1314,10 @@
       "status": "MEAP",
       "authors": ["Chris Buckett"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1077,7 +1329,10 @@
       "status": "MEAP",
       "authors": ["Nicolas G. Bevacqua"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1089,7 +1344,10 @@
       "status": "MEAP",
       "authors": ["Mike McQuaid"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1101,7 +1359,10 @@
       "status": "MEAP",
       "authors": ["Richard L. Saltzer", "Istvan Szegedi"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1113,7 +1374,10 @@
       "status": "MEAP",
       "authors": ["Raoul-Gabriel Urma", "Mario Fusco", "", "Alan Mycroft"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1125,7 +1389,10 @@
       "status": "MEAP",
       "authors": ["Saša Juric´"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1144,7 +1411,10 @@
         "Douglas Garrett"
       ],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1156,7 +1426,10 @@
       "status": "MEAP",
       "authors": ["Simon Holmes"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1168,7 +1441,10 @@
       "status": "MEAP",
       "authors": ["Bear Bibeault", "Yehuda Katz", "", "Aurelio De Rosa"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1180,7 +1456,10 @@
       "status": "MEAP",
       "authors": ["Elijah Meeks"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1193,7 +1472,10 @@
       "status": "PUBLISH",
       "authors": ["Don Jones"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1205,7 +1487,10 @@
       "status": "MEAP",
       "authors": ["Chris Garrard"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1217,7 +1502,10 @@
       "status": "MEAP",
       "authors": ["Oliver Drobnik"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1229,7 +1517,10 @@
       "status": "MEAP",
       "authors": ["Dimitri Aivaliotis"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1241,7 +1532,10 @@
       "status": "MEAP",
       "authors": ["Alex Holmes"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1253,7 +1547,10 @@
       "status": "MEAP",
       "authors": ["Bradley Austin Davis", "Karen Bryla", "", "Alex Benton"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1265,7 +1562,10 @@
       "status": "MEAP",
       "authors": ["Cody Bumgardner"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1277,7 +1577,10 @@
       "status": "MEAP",
       "authors": ["Don Jones", "Jeffery Hicks", "", "Richard Siddaway"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1289,7 +1592,10 @@
       "status": "MEAP",
       "authors": ["Avi Pfeffer"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1301,7 +1607,10 @@
       "status": "MEAP",
       "authors": ["Joseph Hocking"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1313,7 +1622,10 @@
       "status": "MEAP",
       "authors": ["Evan M. Hahn"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1325,7 +1637,10 @@
       "status": "MEAP",
       "authors": ["Rick Umali"],
       "categories": [],
-      "booked": ["2019-12-01", "2019-12-10"]
+      "price": 69,
+      "bookingCost": 1,
+      "booked": ["2019-12-01", "2019-12-10"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "imagePath": "http://localhost:3001/images/goat.png",
@@ -1336,7 +1651,9 @@
       "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scott2.jpg",
       "status": "MEAP",
       "authors": ["Emmit A. Scott", "Jr."],
-      "categories": []
+      "categories": [],
+      "price": 69,
+      "bookingCost": 1
     }
   ]
 }

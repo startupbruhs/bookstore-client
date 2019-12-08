@@ -67,6 +67,14 @@ const Booking = () => {
 
   const book = selectedBook && <Book book={selectedBook} />;
 
+  const bookDescription = selectedBook && (
+    <div> {selectedBook.description}</div>
+  );
+
+  const bookingCost = selectedBook && (
+    <h4> Booking bookingCost: {selectedBook.bookingCost}$</h4>
+  );
+
   return (
     <div>
       <Row gutter={24}>
@@ -77,6 +85,8 @@ const Booking = () => {
 
       <Row gutter={24}>
         <StyledCol>{book}</StyledCol>
+        <StyledCol> {bookDescription} </StyledCol>
+        {bookingCost}
       </Row>
     </div>
   );

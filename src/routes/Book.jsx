@@ -3,6 +3,9 @@ import axios from "axios";
 import { useParams } from "react-router-dom";
 import { URL } from "../configs/site";
 import Book from "../components/Book";
+import StyledCol from "../components/StyledCol";
+import { Row, Typography } from "antd";
+const { Text } = Typography;
 
 const getBookData = async id => {
   return await axios.get(`${URL}?id=${id}`);
@@ -10,19 +13,31 @@ const getBookData = async id => {
 
 const BookPage = () => {
   const { id } = useParams();
-  const [bookComp, setBookComp] = useState(null);
+  const [book, setBook] = useState(null);
 
   useEffect(() => {
     const getDataAndUpdate = async () => {
       const content = await getBookData(id);
-      setBookComp(content.data[0]);
+      setBook(content.data[0]);
     };
     console.log(`content is:  `);
 
     getDataAndUpdate();
   }, [id]);
 
-  return bookComp && <Book book={bookComp} />;
+  const bookCard = book && <Book book={book} />;
+  const bookDescription = bookCard && <Text>{book.description}</Text>;
+  const price = bookCard && <Text strong>Price: {book.price}$</Text>;
+
+  return (
+    <div>
+      <Row gutter={24}>
+        <StyledCol>{bookCard}</StyledCol>
+        <StyledCol>{bookDescription}</StyledCol>
+        {price}
+      </Row>
+    </div>
+  );
 };
 
 export default BookPage;
