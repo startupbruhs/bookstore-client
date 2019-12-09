@@ -1,6 +1,6 @@
 # Bookstore Client
 
-### Check the lieve app on: https://startupbruhs.github.io/books
+### Check the lieve app on: https://startupbruhs.github.io/bookstore-client/
 
 ## Running the json web server as a backend
 
