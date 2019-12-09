@@ -10,8 +10,8 @@ import { withStorage } from "../utils/storage/withStorage";
 const { Content } = Layout;
 const Home = loadable(() => import("./Home"), options);
 const About = loadable(() => import("./About"), options);
-const Contact = loadable(() => import("./Contact"), options);
 const Books = loadable(() => import("./Books"), options);
+const Contact = loadable(() => import("./Contact"), options);
 const Booking = loadable(() => import("./Booking"), options);
 const Book = loadable(() => import("./Book"), options);
 
@@ -57,12 +57,24 @@ export default withStorage(({ ls }) => {
               }}
             >
               <Switch>
-                <Route exact path="/" component={Home} />
-                <Route exact path="/about" component={About} />
-                <Route exact path="/contact" component={Contact} />
-                <Route exact path="/books" component={Books} />
-                <Route exact path="/booking" component={Booking} />
-                <Route exact path="/book/:id" component={Book} />
+                <Route exact path="/">
+                  <Home />
+                </Route>
+                <Route exact path="/about">
+                  <About />
+                </Route>
+                <Route exact path="/contact">
+                  <Contact />
+                </Route>
+                <Route exact path="/books">
+                  <Books />
+                </Route>
+                <Route exact path="/booking">
+                  <Booking />
+                </Route>
+                <Route exact path="/book/:id">
+                  <Book />
+                </Route>
               </Switch>
             </Content>
           </Layout>

@@ -1,2 +1,4 @@
-export const activeRoute = (links, path) =>
-  links.find(link => link.path === path).key;
+export const activeRoute = (links, path) => {
+  const link = links.find(link => link.path === `/${path.split("/")[1]}`);
+  return link ? link.key : "";
+};

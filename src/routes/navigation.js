@@ -18,13 +18,13 @@ export default [
     name: "About"
   },
   {
-    icon: "file",
+    icon: "folder-open",
     key: "menu-4",
     path: "/books",
     name: "Books"
   },
   {
-    icon: "folder-open",
+    icon: "file",
     key: "menu-5",
     path: "/booking",
     name: "Booking"

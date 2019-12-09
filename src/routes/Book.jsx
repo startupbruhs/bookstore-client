@@ -15,7 +15,6 @@ const BookPage = () => {
       const content = await getBookById(id);
       setBook(content.data[0]);
     };
-    console.log(`content is:  `);
 
     getDataAndUpdate();
   }, [id]);

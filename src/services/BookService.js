@@ -1,5 +1,5 @@
 import axios from "axios";
-import { URL } from "../configs/site";
+import { URL } from "../configs/site/index";
 
 export const getAllBooks = async () => await axios.get(URL);
 

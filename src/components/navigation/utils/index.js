@@ -1,13 +1,10 @@
 import React from "react";
 import { Menu, Icon } from "antd";
-import { Link } from "react-router-dom";
 
-export const menu = (links, type = "sidebar") =>
+export const menu = (links, type = "sidebar", history) =>
   links.map(link => (
-    <Menu.Item key={link.key}>
+    <Menu.Item key={link.key} onClick={() => history.push(link.path)}>
       {link.icon && type === "sidebar" && <Icon type={link.icon} />}
-      <span>
-        <Link to={link.path}> {link.name}</Link>
-      </span>
+      <span>{link.name}</span>
     </Menu.Item>
   ));
