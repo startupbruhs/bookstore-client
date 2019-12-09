@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
-import { Row, Button } from "antd";
+import { Row, Button, notification } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
 import Book from "../components/Book";
 import StyledCol from "../components/StyledCol";
 import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
-import message from "../components/utils/message";
+import openNotification from "../utils/openNotification";
 import { getAllBooks } from "../services/BookService";
 
 const Booking = () => {
@@ -36,7 +36,11 @@ const Booking = () => {
 
   const onDateChange = (date, dateRange) => {
     if (datesIntercept(disabledDates, dateRange)) {
-      message.info("You can't book in this dates, already booked");
+      openNotification(
+        "warning",
+        "Can't book",
+        "You can't book in this dates, already booked"
+      );
       setIsDateSelected(false);
       setSelectedDate([null, null]);
     } else {
