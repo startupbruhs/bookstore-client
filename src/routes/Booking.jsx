@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Row, Button, notification } from "antd";
+import { Row, Button } from "antd";
 import Dropdown from "../components/Dropdown";
 import RangePicker from "../components/RangePicker";
 import Book from "../components/Book";
@@ -8,6 +8,7 @@ import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
 import openNotification from "../utils/openNotification";
 import { getAllBooks } from "../services/BookService";
+import { useHistory } from "react-router-dom";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
@@ -68,7 +69,17 @@ const Booking = () => {
   );
 
   const bookButton = isDateSelected && (
-    <Button onClick={() => {}}> Book</Button>
+    <Button
+      onClick={() => {
+        openNotification(
+          "success",
+          "Booking done!",
+          `You booked ${selectedBook.title}`
+        );
+      }}
+    >
+      Book
+    </Button>
   );
 
   const book = selectedBook && <Book book={selectedBook} />;
