@@ -6,18 +6,6 @@ export default [
     name: "Home"
   },
   {
-    icon: "desktop",
-    key: "menu-2",
-    path: "/contact",
-    name: "Contact"
-  },
-  {
-    icon: "user",
-    key: "menu-3",
-    path: "/about",
-    name: "About"
-  },
-  {
     icon: "folder-open",
     key: "menu-4",
     path: "/books",
@@ -28,5 +16,17 @@ export default [
     key: "menu-5",
     path: "/booking",
     name: "Booking"
+  },
+  {
+    icon: "desktop",
+    key: "menu-2",
+    path: "/contact",
+    name: "Contact"
+  },
+  {
+    icon: "user",
+    key: "menu-3",
+    path: "/about",
+    name: "About"
   }
 ];
