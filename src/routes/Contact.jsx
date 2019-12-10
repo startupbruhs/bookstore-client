@@ -1,26 +1,33 @@
 import React from "react";
-import { Form, Row, Input as EmaiLInput, Button } from "antd";
+import { Form, Row as AntRow, Button, Input as AntInput } from "antd";
 import styled from "styled-components";
 import openNotification from "../utils/openNotification";
 
-const Input = styled(EmaiLInput)`
+const { TextArea } = AntInput;
+
+const Input = styled(AntInput)`
   width: 40%;
 `;
-const StyledRow = styled(Row)`
+
+const Row = styled(AntRow)`
   margin: 10px 0px;
+`;
+
+const Area = styled(TextArea)`
+  width: 40%;
 `;
 
 const Contact = () => {
   return (
     <div>
       <Form>
-        <StyledRow>
+        <Row>
           <Input type="email" placeholder="Your email ?"></Input>
-        </StyledRow>
-        <StyledRow>
-          <Input type="text" placeholder="Your thoughts ?"></Input>
-        </StyledRow>
-        <StyledRow>
+        </Row>
+        <Row>
+          <Area rows={4} placeholder="Your thoughts ?"></Area>
+        </Row>
+        <Row>
           <Button
             onClick={() => {
               openNotification(
@@ -32,7 +39,7 @@ const Contact = () => {
           >
             Submit
           </Button>
-        </StyledRow>
+        </Row>
       </Form>
     </div>
   );

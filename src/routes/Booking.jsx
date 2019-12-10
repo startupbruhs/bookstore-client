@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { Row, Button } from "antd";
-import Dropdown from "../components/Dropdown";
-import RangePicker from "../components/RangePicker";
-import Book from "../components/Book";
-import StyledCol from "../components/StyledCol";
+import Dropdown from "../components/generic/Dropdown";
+import RangePicker from "../components/generic/RangePicker";
+import Book from "../components/generic/Book";
+import StyledCol from "../components/generic/StyledCol";
 import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
 import openNotification from "../utils/openNotification";

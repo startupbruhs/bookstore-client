@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import Book from "../components/Book";
-import StyledCol from "../components/StyledCol";
+import Book from "../components/generic/Book";
+import StyledCol from "../components/generic/StyledCol";
 import { getBookById } from "../services/BookService";
 import { Row, Typography, Rate } from "antd";
 const { Text } = Typography;
