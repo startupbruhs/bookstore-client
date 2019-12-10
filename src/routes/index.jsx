@@ -5,6 +5,7 @@ import loadable from "@loadable/component";
 import { Layout } from "antd";
 import React, { useState } from "react";
 import routes from "./navigation";
+import headerRoutes from "./headerRoutes";
 import { withStorage } from "../utils/storage/withStorage";
 
 const { Content } = Layout;
@@ -36,7 +37,7 @@ export default withStorage(({ ls }) => {
         <Header
           selectedKey={selectedKey}
           onClick={onClick}
-          links={routes}
+          links={headerRoutes}
           theme={theme}
           changeTheme={changeTheme}
         />
