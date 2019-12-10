@@ -6,6 +6,12 @@ export default [
     name: "Home"
   },
   {
+    icon: "pie-chart",
+    key: "menu-7",
+    path: "/profile",
+    name: "Profile"
+  },
+  {
     icon: "folder-open",
     key: "menu-4",
     path: "/books",

@@ -9,12 +9,13 @@ const Input = styled(EmaiLInput)`
 const StyledRow = styled(Row)`
   margin: 10px 0px;
 `;
+
 const Contact = () => {
   return (
     <div>
       <Form>
         <StyledRow>
-          <Input type="email" placeholder="Enter email here "></Input>
+          <Input type="email" placeholder="Your email ?"></Input>
         </StyledRow>
         <StyledRow>
           <Input type="text" placeholder="Your thoughts ?"></Input>
@@ -25,7 +26,7 @@ const Contact = () => {
               openNotification(
                 "success",
                 "Submitted",
-                "We will contact you as soon as possible"
+                "We will contact you as soon as possible!"
               );
             }}
           >
