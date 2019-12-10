@@ -10,21 +10,16 @@
 
     yarn
 
-## Running the json web server as a backend
+## Available Scripts
 
-Prior to running the json-server you should install it.
+### `yarn start`
 
-1. Install JSON Server
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```
-yarn global add json-server
-```
+### `yarn start-json-server`
 
-2. Run
-
-```
-cd src/assets && json-server --watch db.json --port 3001
-```
+Runs the json web server as a backend
 
 The source file that stores the data that the json-server will return is
 located under
@@ -37,13 +32,6 @@ You can change the content there based on your needs.
 
 **Please refer to https://github.com/typicode/json-server to find out how to add more routes.**
 
-## Available Scripts
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
@@ -54,3 +42,7 @@ Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
+
+### `yarn run deploy`
+
+Deploys the application on github pages.
