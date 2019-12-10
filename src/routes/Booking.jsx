@@ -8,7 +8,6 @@ import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
 import openNotification from "../utils/openNotification";
 import { getAllBooks } from "../services/BookService";
-import { useHistory } from "react-router-dom";
 
 const Booking = () => {
   const [apiBooks, setBooks] = useState([]);
