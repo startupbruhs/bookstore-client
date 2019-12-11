@@ -17,14 +17,13 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install Packages
         run: yarn install
-      - name: Deploy to GH Pages
-        with:
-          GITHUB_TOKEN: ${TOKEN}
-          BRANCH: gh-pages
-          FOLDER: dist
 
-        run: |
-          git config --global user.email ${EMAIL}
-          git config --global user.name ${USERNAME}
-          git remote set-url origin https://${TOKEN}@github.com/startupbruhs/bookstore-client.git
-          yarn run deploy
+
+
+ - name: Build and Deploy
+      uses: startupbruhs/bookstore-client@releases/v1
+      with:
+        ACCESS_TOKEN: ${TOKEN}
+        BRANCH: gh-pages
+        FOLDER: dist
+        BASE_BRANCH: master
