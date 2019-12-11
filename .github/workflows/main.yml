@@ -17,13 +17,10 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: Install Packages
         run: yarn install
-
-
-
- - name: Build and Deploy
-      uses: startupbruhs/bookstore-client@releases/v1
-      with:
-        ACCESS_TOKEN: ${TOKEN}
-        BRANCH: gh-pages
-        FOLDER: dist
-        BASE_BRANCH: master
+      - name: Build and Deploy
+          uses: startupbruhs/bookstore-client@releases/v1
+        with:
+          ACCESS_TOKEN: ${TOKEN}
+          BRANCH: gh-pages
+          FOLDER: dist
+          BASE_BRANCH: master
