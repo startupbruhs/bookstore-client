@@ -18,7 +18,7 @@ jobs:
           version: ${{ matrix.node_version }}
 
       - name: Build and Deploy
-      - uses: startupbruhs/bookstore-client@master
+        uses: startupbruhs/bookstore-client@master
         env:
           ACCESS_TOKEN: ${{ secrets.TOKEN }}
           BRANCH: gh-pages
