@@ -1,26 +1,23 @@
-name: MasterDeployCI
+name: Deploy to GitHub Pages
 on:
   push:
     branches:
       - master
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [10.x]
     steps:
-      - uses: actions/checkout@v1
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Build
+        run: |
+          yarn install
+          yarn build
+
+      - name: Deploy
+        uses: startupbruhs/bookstore-client@releases/v3
         with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install Packages
-        run: yarn install
-      - name: Build and Deploy
-          uses: startupbruhs/bookstore-client@releases/v1
-        with:
-          ACCESS_TOKEN: ${TOKEN}
+          GITHUB_TOKEN: ${TOKEN}
           BRANCH: gh-pages
           FOLDER: dist
-          BASE_BRANCH: master
