@@ -1,23 +1,23 @@
-name: Deploy to GitHub Pages
-on:
-  push:
-    branches:
-      - master
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v1
+name: CI
 
-      - name: Build
+on: [push]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-18.04
+    strategy:
+      matrix:
+        node_version: [10, 12]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Use Node.js ${{ matrix.node_version }}
+        uses: actions/setup-node@v1
+        with:
+          version: ${{ matrix.node_version }}
+
+      - name: yarn install, yarn lint, yarn test, yarn build
         run: |
           yarn install
-          yarn build
-
-      - name: Deploy
-        uses: startupbruhs/bookstore-client@releases/v3
-        with:
-          GITHUB_TOKEN: ${TOKEN}
-          BRANCH: gh-pages
-          FOLDER: dist
+          yarn run deploy
