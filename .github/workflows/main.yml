@@ -19,7 +19,7 @@ jobs:
         run: yarn install
       - name: Deploy to GH Pages
         run: |
-          git config --global user.email "eraldoforgoli@gmail.com"
-          git config --global user.name "Eraldo Forgoli"
+          git config --global user.email ${EMAIL}
+          git config --global user.name ${USERNAME}
           git remote set-url origin https://${TOKEN}@github.com/startupbruhs/bookstore-client.git
           yarn run deploy
