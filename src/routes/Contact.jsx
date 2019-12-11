@@ -1,47 +1,66 @@
 import React from "react";
-import { Form, Row as AntRow, Button, Input as AntInput } from "antd";
+import { Formik, Form } from "formik";
+import * as Yup from "yup";
+import { Row as AntRow, Button } from "antd";
 import styled from "styled-components";
 import openNotification from "../utils/openNotification";
-
-const { TextArea } = AntInput;
-
-const Input = styled(AntInput)`
-  width: 40%;
-`;
+import Input from "../components/generic/TextInput";
+import Area from "../components/generic/TextArea";
 
 const Row = styled(AntRow)`
   margin: 10px 0px;
 `;
 
-const Area = styled(TextArea)`
-  width: 40%;
-`;
-
 const Contact = () => {
   return (
-    <div>
-      <Form>
-        <Row>
-          <Input type="email" placeholder="Your email ?"></Input>
-        </Row>
-        <Row>
-          <Area rows={4} placeholder="Your thoughts ?"></Area>
-        </Row>
-        <Row>
-          <Button
-            onClick={() => {
-              openNotification(
-                "success",
-                "Submitted",
-                "We will contact you as soon as possible!"
-              );
-            }}
-          >
-            Submit
-          </Button>
-        </Row>
-      </Form>
-    </div>
+    <>
+      <h1> Contact us</h1>
+      <Formik
+        initialValues={{ email: "", description: "" }}
+        validationSchema={Yup.object({
+          email: Yup.string()
+            .email("Invalid email address")
+            .required("Required"),
+          description: Yup.string()
+            .max(200, "Must be 200 characters or less")
+            .required("Required")
+        })}
+        onSubmit={(values, { setSubmitting }) => {
+          setTimeout(() => {
+            openNotification(
+              "success",
+              "Submitted",
+              JSON.stringify(values, null, 2)
+            );
+            setSubmitting(false);
+          }, 400);
+        }}
+      >
+        <Form>
+          <Row>
+            <Input
+              label="Email"
+              name="email"
+              type="email"
+              placeholder="Your email ?"
+            />
+          </Row>
+          <Row>
+            <Area
+              label="Your thoughts?"
+              name="description"
+              type="text"
+              placeholder="Express yourself"
+            />
+          </Row>
+          <Row>
+            <Button type="primary" htmlType="submit">
+              Submit
+            </Button>
+          </Row>
+        </Form>
+      </Formik>
+    </>
   );
 };
 
