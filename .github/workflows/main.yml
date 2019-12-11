@@ -18,6 +18,11 @@ jobs:
       - name: Install Packages
         run: yarn install
       - name: Deploy to GH Pages
+        with:
+          GITHUB_TOKEN: ${TOKEN}
+          BRANCH: gh-pages
+          FOLDER: dist
+
         run: |
           git config --global user.email ${EMAIL}
           git config --global user.name ${USERNAME}
