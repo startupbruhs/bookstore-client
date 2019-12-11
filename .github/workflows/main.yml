@@ -1,23 +1,19 @@
-name: CI
-
-on: [push]
-
+name: GitHub Actions Build and Deploy Demo
+on:
+  push:
+    branches:
+      - master
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-18.04
-    strategy:
-      matrix:
-        node_version: [10, 12]
-
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Use Node.js ${{ matrix.node_version }}
-        uses: actions/setup-node@v1
-        with:
-          version: ${{ matrix.node_version }}
+      - name: Checkout
+        uses: actions/checkout@master
 
-      - name: yarn install, yarn lint, yarn test, yarn build
-        run: |
-          yarn install
-          yarn run deploy
+      - name: Build and Deploy
+        uses: startupbruhs/bookstore-client@master
+        env:
+          ACCESS_TOKEN: ${{ secrets.TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
+          BUILD_SCRIPT: yarn install && yarn run deploy
