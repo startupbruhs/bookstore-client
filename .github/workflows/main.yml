@@ -21,5 +21,5 @@ jobs:
         run: |
           git config --global user.email "eraldoforgoli@gmail.com"
           git config --global user.name "Eraldo Forgoli"
-          git remote set-url origin https://64eaa09ef8ad477c7beb277eaa841bdfee9306d4@github.com/startupbruhs/bookstore-client.git
+          git remote set-url origin https://${TOKEN}@github.com/startupbruhs/bookstore-client.git
           yarn run deploy
