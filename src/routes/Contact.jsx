@@ -11,20 +11,22 @@ const Row = styled(AntRow)`
   margin: 10px 0px;
 `;
 
+const contactFormValidator = Yup.object({
+  email: Yup.string()
+    .email("Invalid email address")
+    .required("Required"),
+  description: Yup.string()
+    .max(200, "Must be 200 characters or less")
+    .required("Required")
+});
+
 const Contact = () => {
   return (
     <>
       <h1> Contact us</h1>
       <Formik
         initialValues={{ email: "", description: "" }}
-        validationSchema={Yup.object({
-          email: Yup.string()
-            .email("Invalid email address")
-            .required("Required"),
-          description: Yup.string()
-            .max(200, "Must be 200 characters or less")
-            .required("Required")
-        })}
+        validationSchema={contactFormValidator}
         onSubmit={(values, { setSubmitting }) => {
           setTimeout(() => {
             openNotification(
