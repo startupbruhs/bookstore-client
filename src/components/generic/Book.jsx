@@ -2,7 +2,7 @@ import React from "react";
 import { Col } from "antd";
 
 import { useHistory } from "react-router-dom";
-import Card from "./Card";
+import BookCard from "./BookCard";
 
 const Book = ({ book: { title, thumbnailUrl, authors, id, tags } }) => {
   const authorsString = authors.join(",");
@@ -11,12 +11,12 @@ const Book = ({ book: { title, thumbnailUrl, authors, id, tags } }) => {
 
   return (
     <Col span={6} onClick={() => handleClick(id)}>
-      <Card
+      <BookCard
         title={title}
         thumbnailUrl={thumbnailUrl}
         authors={authorsString}
         tags={tags}
-      ></Card>
+      />
     </Col>
   );
 };

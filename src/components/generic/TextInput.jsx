@@ -22,10 +22,8 @@ const Input = ({ label, ...props }) => {
   return (
     <>
       <StyledLabel htmlFor={props.id || props.name}>{label}</StyledLabel> <br />
-      <TextInput className="text-input" {...field} {...props} />
-      {meta.touched && meta.error ? (
-        <Error className="error">{meta.error}</Error>
-      ) : null}
+      <TextInput {...field} {...props} />
+      {meta.touched && meta.error ? <Error>{meta.error}</Error> : null}
     </>
   );
 };
