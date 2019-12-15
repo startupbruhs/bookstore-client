@@ -11,6 +11,7 @@
       "authors": ["Alex Holmes"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -26,6 +27,7 @@
       "authors": ["Nicholas Dimiduk", "Amandeep Khurana"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -41,6 +43,7 @@
       "authors": ["Jonathan Campos"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -56,6 +59,7 @@
       "authors": ["Jim Jackson", "II", "Ian Gilman"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -71,6 +75,7 @@
       "authors": ["Carlos M. Sessa"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -86,6 +91,7 @@
       "authors": ["Don Jones", "Richard Siddaway", "", "Jeffery Hicks"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -99,6 +105,7 @@
       "authors": ["Robert A. Rice Jr."],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -112,6 +119,7 @@
       "authors": ["Julio C. Ody"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -132,6 +140,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -147,6 +156,7 @@
       "authors": ["David Dossot", "John D'Emic", "", "Victor Romero"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -162,6 +172,7 @@
       "authors": ["Michael S. Mikowski", "Josh C. Powell"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -177,6 +188,7 @@
       "authors": ["Roy Osherove"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -192,6 +204,7 @@
       "authors": ["Nicolas Leroux", "Sietse de Kaper"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -207,6 +220,7 @@
       "authors": ["Warren Sande", "Carter Sande"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -223,6 +237,7 @@
       "authors": ["Chris Buckett"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -239,6 +254,7 @@
       "authors": ["Josiah Carlson"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -255,6 +271,7 @@
       "authors": ["Christopher R. Mitchell"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -270,6 +287,7 @@
       "authors": ["Jonas Partner", "Aleksa Vukotic", "", "Nicki Watt"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -286,6 +304,7 @@
       "authors": ["Christopher R. Mitchell"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -301,6 +320,7 @@
       "authors": ["Paul Chiusano", "Rúnar Bjarnason"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -317,6 +337,7 @@
       "authors": ["Peter Hilton", "Erik Bakker", "", "Francisco Canedo"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -332,6 +353,7 @@
       "authors": ["Alex Young", "Marc Harter"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -348,6 +370,7 @@
       "authors": ["G. Ann Campbell", "Patroklos P. Papapetrou"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -364,6 +387,7 @@
       "authors": ["Peter M. Brown"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -380,6 +404,7 @@
       "authors": ["Jason C. Helmick"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -395,6 +420,7 @@
       "authors": ["William Back", "Nicholas Goodman", "", "Julian Hyde"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -410,6 +436,7 @@
       "authors": ["Gavin M. Roy"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -430,6 +457,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -446,6 +474,7 @@
       "authors": ["Keith B. Wood"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -462,6 +491,7 @@
       "authors": ["Mala Gupta"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -478,6 +508,7 @@
       "authors": ["Marcus Hammarberg", "Joakim Sunden"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -494,6 +525,7 @@
       "authors": ["Trey Grainger", "Timothy Potter"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -510,6 +542,7 @@
       "authors": ["Daniel G. McCreary", "Ann M. Kelly"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -525,6 +558,7 @@
       "authors": ["MIchael Barlotta"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -540,6 +574,7 @@
       "authors": ["Glen Smith", "Peter Ledbrook"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -555,6 +590,7 @@
       "authors": ["Ryan Bigg", "Yehuda Katz", "and Steve Klabnik", ""],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -571,6 +607,7 @@
       "authors": ["Don Jones", "Jeffery D. Hicks"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -587,6 +624,7 @@
       "authors": ["Matthew D. Groves"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -603,6 +641,7 @@
       "authors": ["Don Jones", "Jeffery Hicks"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -618,6 +657,7 @@
       "authors": ["Florian Müller", "Jay Brown", "Jeff Potts"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -632,6 +672,7 @@
       "authors": ["Paul Messick"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -647,6 +688,7 @@
       "authors": ["Richard Siddaway"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -662,6 +704,7 @@
       "authors": ["Craig Walls"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -678,6 +721,7 @@
       "authors": ["Ola Ellnestam", "Daniel Brolund"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -693,6 +737,7 @@
       "authors": ["Matthew Carver"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -709,6 +754,7 @@
       "authors": ["Dean Alan Hume"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -724,6 +770,7 @@
       "authors": ["Joshua Suereth", "Matthew Farwell"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -745,6 +792,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -761,6 +809,7 @@
       "authors": ["Benjamin Muschko"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -783,6 +832,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -798,6 +848,7 @@
       "authors": ["Brian Ford", "Lukas Ruebbelke"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -813,6 +864,7 @@
       "authors": ["David Nicolette"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -828,6 +880,7 @@
       "authors": ["Tomas Petricek", "Phillip Trelford"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -844,6 +897,7 @@
       "authors": ["Jon Skeet"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -859,6 +913,7 @@
       "authors": ["Regina Obe", "Leo Hsu"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -874,6 +929,7 @@
       "authors": ["Robert Kabacoff"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -890,6 +946,7 @@
       "authors": ["Michael Fogus", "Chris Houser"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -906,6 +963,7 @@
       "authors": ["Brendan G. Lim", "Martin Conte Mac Donell"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -921,6 +979,7 @@
       "authors": ["Paula Beer", "Carl Simmons"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -937,6 +996,7 @@
       "authors": ["Joachim Haagen Skeie"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -952,6 +1012,7 @@
       "authors": ["Norman Maurer", "Courtney Robinson"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -967,6 +1028,7 @@
       "authors": ["Itamar Syn-Hershko"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -982,6 +1044,7 @@
       "authors": ["Mala Gupta"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1002,6 +1065,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1017,6 +1081,7 @@
       "authors": ["Amit Rathore"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1033,6 +1098,7 @@
       "authors": ["Nina Zumel", "John Mount"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1048,6 +1114,7 @@
       "authors": ["Rene Rubalcava"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1063,6 +1130,7 @@
       "authors": ["Radu Gheorghe", "Matthew Lee Hinman"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1078,6 +1146,7 @@
       "authors": ["James Bannan"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1093,6 +1162,7 @@
       "authors": ["Ajay Kapur", "Perry Cook", "Spencer Salazar", "", "Ge Wang"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1108,6 +1178,7 @@
       "authors": ["John F. Smart"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1129,6 +1200,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1144,6 +1216,7 @@
       "authors": ["Ricardo Alcocer"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1164,6 +1237,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1180,6 +1254,7 @@
       "authors": ["David A. Black"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1195,6 +1270,7 @@
       "authors": ["Brian Ketelsen", "Erik St. Martin", "", "William Kennedy"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1210,6 +1286,7 @@
       "authors": ["Randy Abernethy"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1225,6 +1302,7 @@
       "authors": ["Aslam Khan"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1240,6 +1318,7 @@
       "authors": ["Monsur Hossain"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1255,6 +1334,7 @@
       "authors": ["Roland Kuhn", "Jamie Allen"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1270,6 +1350,7 @@
       "authors": ["Sean Allen", "Peter Pathirana", "", "Matthew Jankowski"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1285,6 +1366,7 @@
       "authors": ["Henrik Brink", "Joseph Richards"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1300,6 +1382,7 @@
       "authors": ["Theodore J. (T.J.) VanToll III"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1315,6 +1398,7 @@
       "authors": ["Chris Buckett"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1330,6 +1414,7 @@
       "authors": ["Nicolas G. Bevacqua"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1345,6 +1430,7 @@
       "authors": ["Mike McQuaid"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1360,6 +1446,7 @@
       "authors": ["Richard L. Saltzer", "Istvan Szegedi"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1375,6 +1462,7 @@
       "authors": ["Raoul-Gabriel Urma", "Mario Fusco", "", "Alan Mycroft"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1390,6 +1478,7 @@
       "authors": ["Saša Juric´"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1412,6 +1501,7 @@
       ],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1427,6 +1517,7 @@
       "authors": ["Simon Holmes"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1442,6 +1533,7 @@
       "authors": ["Bear Bibeault", "Yehuda Katz", "", "Aurelio De Rosa"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1457,6 +1549,7 @@
       "authors": ["Elijah Meeks"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1473,6 +1566,7 @@
       "authors": ["Don Jones"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1488,6 +1582,7 @@
       "authors": ["Chris Garrard"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1503,6 +1598,7 @@
       "authors": ["Oliver Drobnik"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1518,6 +1614,7 @@
       "authors": ["Dimitri Aivaliotis"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1533,6 +1630,7 @@
       "authors": ["Alex Holmes"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1548,6 +1646,7 @@
       "authors": ["Bradley Austin Davis", "Karen Bryla", "", "Alex Benton"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1563,6 +1662,7 @@
       "authors": ["Cody Bumgardner"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1578,6 +1678,7 @@
       "authors": ["Don Jones", "Jeffery Hicks", "", "Richard Siddaway"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1593,6 +1694,7 @@
       "authors": ["Avi Pfeffer"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1608,6 +1710,7 @@
       "authors": ["Joseph Hocking"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1623,6 +1726,7 @@
       "authors": ["Evan M. Hahn"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1638,6 +1742,7 @@
       "authors": ["Rick Umali"],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1,
       "booked": ["2019-12-01", "2019-12-10"],
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
@@ -1653,6 +1758,7 @@
       "authors": ["Emmit A. Scott", "Jr."],
       "categories": [],
       "price": 69,
+      "tags": ["Eminem", "Tagu", "Techno"],
       "bookingCost": 1
     }
   ]

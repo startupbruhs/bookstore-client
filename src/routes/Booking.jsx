@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import { Row, Button } from "antd";
-import Dropdown from "../components/Dropdown";
-import RangePicker from "../components/RangePicker";
-import Book from "../components/Book";
-import StyledCol from "../components/StyledCol";
+import Dropdown from "../components/generic/Dropdown";
+import RangePicker from "../components/generic/RangePicker";
+import Book from "../components/generic/Book";
+import StyledCol from "../components/generic/StyledCol";
 import moment from "moment";
 import datesIntercept from "../utils/datesIntercept";
-import message from "../components/utils/message";
+import openNotification from "../utils/openNotification";
 import { getAllBooks } from "../services/BookService";
 
 const Booking = () => {
@@ -36,7 +36,11 @@ const Booking = () => {
 
   const onDateChange = (date, dateRange) => {
     if (datesIntercept(disabledDates, dateRange)) {
-      message.info("You can't book in this dates, already booked");
+      openNotification(
+        "warning",
+        "Can't book",
+        "You can't book in this dates, already booked"
+      );
       setIsDateSelected(false);
       setSelectedDate([null, null]);
     } else {
@@ -64,7 +68,17 @@ const Booking = () => {
   );
 
   const bookButton = isDateSelected && (
-    <Button onClick={() => {}}> Book</Button>
+    <Button
+      onClick={() => {
+        openNotification(
+          "success",
+          "Booking done!",
+          `You booked ${selectedBook.title}`
+        );
+      }}
+    >
+      Book
+    </Button>
   );
 
   const book = selectedBook && <Book book={selectedBook} />;

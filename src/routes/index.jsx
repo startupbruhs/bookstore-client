@@ -5,6 +5,7 @@ import loadable from "@loadable/component";
 import { Layout } from "antd";
 import React, { useState } from "react";
 import routes from "./navigation";
+import headerRoutes from "./headerRoutes";
 import { withStorage } from "../utils/storage/withStorage";
 
 const { Content } = Layout;
@@ -14,6 +15,7 @@ const Books = loadable(() => import("./Books"), options);
 const Contact = loadable(() => import("./Contact"), options);
 const Booking = loadable(() => import("./Booking"), options);
 const Book = loadable(() => import("./Book"), options);
+const Profile = loadable(() => import("./Profile"), options);
 
 export default withStorage(({ ls }) => {
   const [theme, setTheme] = useState(ls.getItem("theme"));
@@ -35,7 +37,7 @@ export default withStorage(({ ls }) => {
         <Header
           selectedKey={selectedKey}
           onClick={onClick}
-          links={routes}
+          links={headerRoutes}
           theme={theme}
           changeTheme={changeTheme}
         />
@@ -74,6 +76,9 @@ export default withStorage(({ ls }) => {
                 </Route>
                 <Route exact path="/book/:id">
                   <Book />
+                </Route>
+                <Route exact path="/profile">
+                  <Profile />
                 </Route>
               </Switch>
             </Content>

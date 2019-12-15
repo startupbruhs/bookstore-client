@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Book from "../components/Book";
+import Book from "../components/generic/Book";
 import { Row } from "antd";
 import { getAllBooks } from "../services/BookService";
 

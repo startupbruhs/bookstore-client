@@ -1,8 +1,9 @@
 import axios from "axios";
-import { URL } from "../configs/site/index";
+import { URL } from "../configs/site";
 
-export const getAllBooks = async () => await axios.get(URL);
+const base = "books";
+export const getAllBooks = async () => await axios.get(`${URL}/${base}`);
 
 export const getBookById = async id => {
-  return await axios.get(`${URL}?id=${id}`);
+  return await axios.get(`${URL}/${base}/?id=${id}`);
 };
