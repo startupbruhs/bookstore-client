@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/Home.jsx"],"names":[],"mappings":"6HAAA,2BAEe,qBACb,OAAO","file":"static/js/14.2f7c4a96.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default () => {\n  return <div>Home test deployment</div>;\n};\n"],"sourceRoot":""}

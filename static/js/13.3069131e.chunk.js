@@ -1,0 +1,2 @@
+(this["webpackJsonpbookstore-client"]=this["webpackJsonpbookstore-client"]||[]).push([[13],{493:function(t,e,n){"use strict";n.r(e);var o=n(0),s=n.n(o);e.default=function(){return s.a.createElement("div",null,"About")}}}]);
+//# sourceMappingURL=13.3069131e.chunk.js.map

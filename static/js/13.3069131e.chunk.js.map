@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/About.jsx"],"names":[],"mappings":"6HAAA,2BAEe,qBACb,OAAO","file":"static/js/13.3069131e.chunk.js","sourcesContent":["import React from \"react\";\n\nexport default () => {\n  return <div>About</div>;\n};\n"],"sourceRoot":""}

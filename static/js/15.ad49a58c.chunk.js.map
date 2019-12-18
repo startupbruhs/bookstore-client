@@ -1,0 +1,1 @@
+{"version":3,"sources":["routes/Profile.jsx"],"names":["Profile"],"mappings":"6HAAA,2BAMeA,UAJC,WACd,OAAO","file":"static/js/15.ad49a58c.chunk.js","sourcesContent":["import React from \"react\";\n\nconst Profile = () => {\n  return <div> Your profile here </div>;\n};\n\nexport default Profile;\n"],"sourceRoot":""}
